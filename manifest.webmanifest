@@ -1,0 +1,25 @@
+{
+  "name": "OPTCL Tender Statistics",
+  "short_name": "OPTCL Tenders",
+  "description": "View-only live OPTCL Tender Statistics dashboard.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#EEF1F6",
+  "theme_color": "#16324F",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
