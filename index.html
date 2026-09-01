@@ -260,13 +260,6 @@
   .vs-legend-swatch{width:11px;height:11px;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,.12);flex:0 0 11px}
 
 </style>
-
-<link rel="manifest" href="./manifest.webmanifest">
-<meta name="theme-color" content="#16324F">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="OPTCL Tender Statistics">
-<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
 </head>
 <body>
 
@@ -376,13 +369,14 @@
         <h3>Category</h3><div class="stat-chart-wrap"><div id="vsCategory" class="visual-chart"></div></div><div id="vsCategoryLegend" class="vs-legend"></div>
       </div>
       <div class="stat-chart-card">
-        <h3>Year</h3><div class="stat-chart-wrap"><div id="vsYear" class="visual-chart"></div></div>
+        <h3>Year</h3><div class="stat-chart-wrap"><div id="vsYear" class="visual-chart"></div></div><div id="vsYearLegend" class="vs-legend"></div>
       </div>
       <div class="stat-chart-card">
         <h3>Estimated Cost by Category</h3><div class="stat-chart-wrap"><div id="vsCost" class="visual-chart"></div></div><div id="vsCostLegend" class="vs-legend"></div>
       </div>
     </div>
   </div>
+
 
   <div class="panel">
     <div style="padding:16px 20px 4px;">
@@ -629,6 +623,16 @@ const REQUIRED_COLS = {
   nTenders:'No. of tenders received', techOpen:'Qualified or Disqualified in Technical Open',
   status:'Current Tender status', bidders:'Name of the Bidders'
 };
+
+/* Optional bidder-name and evaluation fields. Rate/Percentage, Above/Below/Par and L1/L2/L3 are deliberately excluded. */
+const OPTIONAL_COLS = {
+  techDate:'Technical Open date',
+  techQualified:'Name of the qualified Bidders in Technical Open',
+  techDisqualified:'Name of the disqualified Bidders in Technical Open',
+  costDate:'Cost Open date',
+  costQualified:'Name of the qualified Bidders in Cost Open',
+  costDisqualified:'Name of the disqualified Bidders in Cost Open'
+};
 function normHeader(h){ return (h==null?'':String(h)).replace(/\u00a0/g,' ').trim(); }
 function cleanStr(v){
   if(v==null) return null;
@@ -710,7 +714,15 @@ function parseExcelToRows(wb){
       nTenders: numVal(row[map[REQUIRED_COLS.nTenders]]),
       status: cleanStr(row[map[REQUIRED_COLS.status]]) || 'UNKNOWN',
       qualified: qc.q, disqualified: qc.dq, year,
-      bidders: cleanStr(row[map[REQUIRED_COLS.bidders]])
+      bidders: cleanStr(row[map[REQUIRED_COLS.bidders]]),
+      techOpenDate: map[OPTIONAL_COLS.techDate]!=null ? dateStr(row[map[OPTIONAL_COLS.techDate]]) : null,
+      techQualified: map[OPTIONAL_COLS.techQualified]!=null ? cleanStr(row[map[OPTIONAL_COLS.techQualified]]) : null,
+      techDisqualified: map[OPTIONAL_COLS.techDisqualified]!=null ? cleanStr(row[map[OPTIONAL_COLS.techDisqualified]]) : null,
+      costOpenDate: map[OPTIONAL_COLS.costDate]!=null ? dateStr(row[map[OPTIONAL_COLS.costDate]]) : null,
+      costQualified: map[OPTIONAL_COLS.costQualified]!=null ? cleanStr(row[map[OPTIONAL_COLS.costQualified]]) : null,
+      costDisqualified: map[OPTIONAL_COLS.costDisqualified]!=null ? cleanStr(row[map[OPTIONAL_COLS.costDisqualified]]) : null,
+      costQualifiedCount: map[OPTIONAL_COLS.costQualified]!=null ? countNamed(row[map[OPTIONAL_COLS.costQualified]]) : null,
+      costDisqualifiedCount: map[OPTIONAL_COLS.costDisqualified]!=null ? countNamed(row[map[OPTIONAL_COLS.costDisqualified]]) : null
     });
   }
   if(!out.length) throw new Error('No tender rows found in this file.');
@@ -932,7 +944,7 @@ function renderLensBody(rows){
 
   if(!CHART_OK){
     body.innerHTML = `
-      <div class="lens-head"><h2>Charts unavailable</h2><p>The charting library couldn't load (likely a blocked network request). The filters, search and tender table below still work normally — try reloading, or check your network/ad-blocker settings if this persists.</p></div>`;
+      <div class="lens-head"><h2></h2><p>The charting library couldn't load (likely a blocked network request). The filters, search and tender table below still work normally — try reloading, or check your network/ad-blocker settings if this persists.</p></div>`;
     return;
   }
 
@@ -1110,19 +1122,29 @@ document.getElementById('prevPage').addEventListener('click',()=>{ if(state.page
 document.getElementById('nextPage').addEventListener('click',()=>{ state.page++; render(); });
 
 /* ---------------- drawer ---------------- */
+function bidderLinesHtml(value){
+  if(!value) return '—';
+  const s = String(value).trim();
+  const lines = s.replace(/\s+(?=\d+\.)/g,'\n').split(/\n+/).map(x=>x.trim()).filter(Boolean);
+  return escapeHtml(lines.join('\n'));
+}
 function openDrawer(sl){
   const d = DATA.find(x=>x.sl===sl);
   if(!d) return;
+  const techQualified = d.techQualified || null;
+  const techDisqualified = d.techDisqualified || null;
+  const costQualified = d.costQualified || null;
+  const costDisqualified = d.costDisqualified || null;
   document.getElementById('drawer').innerHTML = `
     <div class="drawer-head">
       <button class="close" id="closeDrawer">✕</button>
-      <div class="tender-no">${escapeHtml(d.tenderNo)} ${d.lineNo?('· Line '+escapeHtml(d.lineNo)):''}</div>
-      <h3>${escapeHtml(d.name)}</h3>
+      <div class="tender-no">${escapeHtml(d.tenderNo||'—')} ${d.lineNo?('· Line '+escapeHtml(d.lineNo)):''}</div>
+      <h3>${escapeHtml(d.name||'—')}</h3>
     </div>
     <div class="drawer-body">
-      <div class="field"><div class="k">Status</div><div class="v"><span class="badge ${statusClass(d.status)}">${escapeHtml(d.status)}</span></div></div>
+      <div class="field"><div class="k">Status</div><div class="v"><span class="badge ${statusClass(d.status)}">${escapeHtml(d.status||'—')}</span></div></div>
       <div class="field-grid">
-        <div class="field"><div class="k">Category</div><div class="v">${escapeHtml(d.cot)}</div></div>
+        <div class="field"><div class="k">Category</div><div class="v">${escapeHtml(d.cot)||'—'}</div></div>
         <div class="field"><div class="k">Tender type</div><div class="v">${escapeHtml(d.tenderType)||'—'}</div></div>
         <div class="field"><div class="k">Estimated cost</div><div class="v mono">${fmtINR(d.estCost)}</div></div>
         <div class="field"><div class="k">Bidders received</div><div class="v mono">${d.nTenders ?? '—'}</div></div>
@@ -1130,16 +1152,45 @@ function openDrawer(sl){
         <div class="field"><div class="k">Purchase window</div><div class="v mono">${fmtDate(d.purStart)} → ${fmtDate(d.purEnd)}</div></div>
         <div class="field"><div class="k">Bid submission close</div><div class="v mono">${fmtDate(d.bidEnd)}</div></div>
         <div class="field"><div class="k">Last date of receipt</div><div class="v mono">${fmtDate(d.lastReceipt)}</div></div>
-        <div class="field"><div class="k">Technically qualified</div><div class="v mono">${d.qualified}</div></div>
-        <div class="field"><div class="k">Disqualified</div><div class="v mono">${d.disqualified}</div></div>
       </div>
-      <div class="field"><div class="k">Bidders</div><div class="v">${escapeHtml(d.bidders)||'—'}</div></div>
+
+      <div class="drawer-section">
+        <h4>Participation</h4>
+        <div class="field"><div class="k">List of bidders</div><div class="v" style="white-space:pre-wrap;">${bidderLinesHtml(d.bidders)}</div></div>
+      </div>
+
+      <div class="drawer-section">
+        <h4>Technical Open</h4>
+        <div class="field-grid">
+          <div class="field"><div class="k">Technical open date</div><div class="v mono">${fmtDate(d.techOpenDate)}</div></div>
+          <div class="field"><div class="k">Technically qualified</div><div class="v mono">${d.qualified ?? '—'}</div></div>
+          <div class="field"><div class="k">Technically disqualified</div><div class="v mono">${d.disqualified ?? '—'}</div></div>
+        </div>
+        <div class="field"><div class="k">Names of qualified bidders</div><div class="v" style="white-space:pre-wrap;">${bidderLinesHtml(techQualified)}</div></div>
+        <div class="field"><div class="k">Names of disqualified bidders</div><div class="v" style="white-space:pre-wrap;">${bidderLinesHtml(techDisqualified)}</div></div>
+      </div>
+
+      <div class="drawer-section">
+        <h4>Cost Open</h4>
+        <div class="field-grid">
+          <div class="field"><div class="k">Cost open date</div><div class="v mono">${fmtDate(d.costOpenDate)}</div></div>
+          <div class="field"><div class="k">Cost-open qualified</div><div class="v mono">${d.costQualifiedCount ?? countNamed(d.costQualified)}</div></div>
+          <div class="field"><div class="k">Cost-open disqualified</div><div class="v mono">${d.costDisqualifiedCount ?? countNamed(d.costDisqualified)}</div></div>
+        </div>
+        <div class="field"><div class="k">Names of qualified bidders</div><div class="v" style="white-space:pre-wrap;">${bidderLinesHtml(costQualified)}</div></div>
+        <div class="field"><div class="k">Names of disqualified bidders</div><div class="v" style="white-space:pre-wrap;">${bidderLinesHtml(costDisqualified)}</div></div>
+      </div>
     </div>`;
   document.getElementById('closeDrawer').addEventListener('click',closeDrawer);
   document.getElementById('overlay').classList.add('open');
 }
 function closeDrawer(){ document.getElementById('overlay').classList.remove('open'); }
+function countNamed(value){
+  if(!value) return 0;
+  return String(value).split(/\s+(?=\d+\.)|\n+/).map(x=>x.trim()).filter(Boolean).length;
+}
 document.getElementById('overlay').addEventListener('click',e=>{ if(e.target.id==='overlay') closeDrawer(); });
+
 
 /* ---------------- render ---------------- */
 
@@ -1184,17 +1235,37 @@ function vsClear(id){
   if(el) el.innerHTML='';
   return el;
 }
-function vsBar(id, entries, horizontal, colorMap=null){
+function vsLegend(id, entries, kind){
+  const el=document.getElementById(id);
+  if(!el) return;
+  const palette=['#16324F','#1F7A5C','#C17817','#1D5FA6','#6B3FA0','#B23A34','#E3A73B','#8492A6'];
+  const colorFor=(label,i)=>{
+    if(kind==='status') return STATUS_COLOR[label] || palette[i%palette.length];
+    if(kind==='category') return COT_COLOR[label] || palette[i%palette.length];
+    if(kind==='year') return palette[i%palette.length];
+    return COT_COLOR[label] || palette[i%palette.length];
+  };
+  el.innerHTML=entries.map((e,i)=>{
+    const value = kind==='cost' ? '₹'+Number(e[1]).toLocaleString('en-IN',{maximumFractionDigits:1})+' Cr' : e[1].toLocaleString('en-IN');
+    return `<span class="vs-legend-item"><span class="vs-legend-swatch" style="background:${colorFor(e[0],i)}"></span><span>${escapeHtml(e[0])} <strong>(${value})</strong></span></span>`;
+  }).join('');
+}
+function vsBar(id, entries, horizontal, kind){
   const el=vsClear(id);
   if(!el) return;
-  const w=el.clientWidth || 650, h=230, ns='http://www.w3.org/2000/svg';
-  const pad=horizontal ? {l:155,r:55,t:18,b:18} : {l:42,r:18,t:18,b:48};
+  const w=el.clientWidth || 650, h=225, ns='http://www.w3.org/2000/svg';
+  const pad=horizontal ? {l:155,r:45,t:16,b:16} : {l:42,r:18,t:16,b:42};
   const max=Math.max(1,...entries.map(x=>x[1]));
   const iw=w-pad.l-pad.r, ih=h-pad.t-pad.b;
   const svg=document.createElementNS(ns,'svg');
   svg.setAttribute('viewBox',`0 0 ${w} ${h}`);
   svg.setAttribute('width','100%'); svg.setAttribute('height','100%');
-
+  const palette=['#16324F','#1F7A5C','#C17817','#1D5FA6','#6B3FA0','#B23A34','#E3A73B','#8492A6'];
+  const colorFor=(label,i)=>{
+    if(kind==='category' || kind==='cost') return COT_COLOR[label] || palette[i%palette.length];
+    if(kind==='year') return palette[i%palette.length];
+    return palette[i%palette.length];
+  };
   const grid=document.createElementNS(ns,'line');
   if(horizontal){
     grid.setAttribute('x1',pad.l); grid.setAttribute('x2',pad.l);
@@ -1216,12 +1287,10 @@ function vsBar(id, entries, horizontal, colorMap=null){
       bw=Math.max(12,colW*.58); x=pad.l+i*colW+(colW-bw)/2;
       bh=ih*(e[1]/max); y=pad.t+ih-bh;
     }
-
     const rect=document.createElementNS(ns,'rect');
     rect.setAttribute('x',x);rect.setAttribute('y',y);
     rect.setAttribute('width',bw);rect.setAttribute('height',bh);
-    rect.setAttribute('rx','3');
-    rect.setAttribute('fill', colorMap ? vsColor(colorMap,e[0],'#7A8793') : 'var(--navy)');
+    rect.setAttribute('rx','3');rect.setAttribute('fill',colorFor(e[0],i));
     svg.appendChild(rect);
 
     const label=document.createElementNS(ns,'text');
@@ -1230,13 +1299,13 @@ function vsBar(id, entries, horizontal, colorMap=null){
     if(horizontal){
       label.setAttribute('x',pad.l-8);label.setAttribute('y',y+bh/2+3);label.setAttribute('text-anchor','end');
     }else{
-      label.setAttribute('x',x+bw/2);label.setAttribute('y',h-10);label.setAttribute('text-anchor','middle');
+      label.setAttribute('x',x+bw/2);label.setAttribute('y',h-8);label.setAttribute('text-anchor','middle');
     }
     svg.appendChild(label);
 
     const val=document.createElementNS(ns,'text');
     val.setAttribute('fill','var(--ink)');val.setAttribute('font-size','10');val.setAttribute('font-weight','700');
-    val.textContent=e[1].toLocaleString('en-IN');
+    val.textContent=kind==='cost' ? '₹'+Number(e[1]).toLocaleString('en-IN',{maximumFractionDigits:1})+' Cr' : e[1].toLocaleString('en-IN');
     if(horizontal){
       val.setAttribute('x',pad.l+bw+6);val.setAttribute('y',y+bh/2+3);
     }else{
@@ -1246,60 +1315,26 @@ function vsBar(id, entries, horizontal, colorMap=null){
   });
   el.appendChild(svg);
 }
-
-
-function vsLegend(id, entries, colorMap){
-  const el=document.getElementById(id);
-  if(!el) return;
-  el.innerHTML='';
-  entries.forEach(e=>{
-    const item=document.createElement('div');
-    item.className='vs-legend-item';
-    const sw=document.createElement('span');
-    sw.className='vs-legend-swatch';
-    sw.style.backgroundColor=vsColor(colorMap,e[0],'#7A8793');
-    const text=document.createElement('span');
-    text.textContent=e[0];
-    item.appendChild(sw);
-    item.appendChild(text);
-    el.appendChild(item);
-  });
-}
-
 function vsDonut(id, entries){
   const el=vsClear(id);
   if(!el) return;
-  const w=el.clientWidth||650,h=230,ns='http://www.w3.org/2000/svg';
-  const cx=w*.30,cy=h/2,r=Math.min(72,h*.31),circ=2*Math.PI*r;
+  const w=el.clientWidth||650,h=225,ns='http://www.w3.org/2000/svg';
+  const cx=w*.30,cy=h/2,r=Math.min(70,h*.31),circ=2*Math.PI*r;
   const total=Math.max(1,entries.reduce((s,x)=>s+x[1],0));
   const svg=document.createElementNS(ns,'svg');
-  svg.setAttribute('viewBox',`0 0 ${w} ${h}`);
-  svg.setAttribute('width','100%');svg.setAttribute('height','100%');
+  svg.setAttribute('viewBox',`0 0 ${w} ${h}`);svg.setAttribute('width','100%');svg.setAttribute('height','100%');
   let off=0;
-  entries.forEach((e)=>{
+  entries.forEach((e,i)=>{
     const c=document.createElementNS(ns,'circle');
     c.setAttribute('cx',cx);c.setAttribute('cy',cy);c.setAttribute('r',r);
     c.setAttribute('fill','none');
-    c.setAttribute('stroke',vsColor(VS_STATUS_COLORS,e[0],'#7A8793'));
+    c.setAttribute('stroke',STATUS_COLOR[e[0]] || ['#16324F','#1F7A5C','#C17817','#1D5FA6','#6B3FA0','#B23A34','#E3A73B','#8492A6'][i%8]);
     c.setAttribute('stroke-width','30');
     const dash=circ*e[1]/total;
     c.setAttribute('stroke-dasharray',`${dash} ${circ-dash}`);
     c.setAttribute('stroke-dashoffset',-off);
     c.setAttribute('transform',`rotate(-90 ${cx} ${cy})`);
     svg.appendChild(c); off+=dash;
-    const ly=30+entries.indexOf(e)*22;
-    const sw=document.createElementNS(ns,'rect');
-    sw.setAttribute('x',w*.54); sw.setAttribute('y',ly-10);
-    sw.setAttribute('width','10'); sw.setAttribute('height','10');
-    sw.setAttribute('rx','2');
-    sw.setAttribute('fill',vsColor(VS_STATUS_COLORS,e[0],'#7A8793'));
-    svg.appendChild(sw);
-
-    const label=document.createElementNS(ns,'text');
-    label.setAttribute('x',w*.54+16);label.setAttribute('y',ly);
-    label.setAttribute('fill','var(--ink-soft)');label.setAttribute('font-size','11');
-    label.textContent=`${e[0]}  (${e[1]})`;
-    svg.appendChild(label);
   });
   const center=document.createElementNS(ns,'text');
   center.setAttribute('x',cx);center.setAttribute('y',cy+5);
@@ -1309,7 +1344,6 @@ function vsDonut(id, entries){
   svg.appendChild(center);
   el.appendChild(svg);
 }
-
 function vsCost(rows){
   const m={};
   rows.forEach(r=>{
@@ -1322,28 +1356,24 @@ function renderVisualStats(rows){
   if(!Array.isArray(rows)) return;
   const note=document.getElementById('visualStatsNote');
   if(note) note.textContent='Visual summary of '+rows.length.toLocaleString('en-IN')+' tenders matching the current filters.';
+
   const statusEntries=vsTop(vsCounts(rows,r=>r.status),8);
   vsDonut('vsStatus',statusEntries);
-  vsLegend('vsStatusLegend',statusEntries,VS_STATUS_COLORS);
+  vsLegend('vsStatusLegend',statusEntries,'status');
+
   const categoryEntries=vsTop(vsCounts(rows,r=>r.cot),8);
-  vsBar('vsCategory',categoryEntries,true,VS_CATEGORY_COLORS);
-  vsLegend('vsCategoryLegend',categoryEntries,VS_CATEGORY_COLORS);
-  vsBar('vsYear',vsCounts(rows,r=>r.year),false);
-  const costs=vsTop(vsCost(rows),8);
-  const costEl=vsClear('vsCost');
-  if(costEl){
-    // Render cost in ₹ crore, with values shown on the bars.
-    vsBar('vsCost',costs,true,VS_CATEGORY_COLORS);
-    vsLegend('vsCostLegend',costs,VS_CATEGORY_COLORS);
-    const svg=costEl.querySelector('svg');
-    if(svg){
-      svg.querySelectorAll('text').forEach((node)=>{
-        const s=node.textContent||'';
-        if(/^\d[\d,]*(\.\d+)?$/.test(s)) node.textContent='₹'+s+' Cr';
-      });
-    }
-  }
+  vsBar('vsCategory',categoryEntries,true,'category');
+  vsLegend('vsCategoryLegend',categoryEntries,'category');
+
+  const yearEntries=vsCounts(rows,r=>r.year);
+  vsBar('vsYear',yearEntries,false,'year');
+  vsLegend('vsYearLegend',yearEntries,'year');
+
+  const costEntries=vsTop(vsCost(rows),8);
+  vsBar('vsCost',costEntries,true,'cost');
+  vsLegend('vsCostLegend',costEntries,'cost');
 }
+
 
 function render(){
   const rows = filteredData();
@@ -1375,12 +1405,4 @@ window.addEventListener('focus', tryFetchLiveData);
 
 
 
-
-<script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').catch(err => console.warn('PWA service worker registration failed:', err));
-  });
-}
-</script>
 </body></html>
