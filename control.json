@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "applicationRelease": "1.4",
-  "minApplicationRelease": "1.4",
+  "applicationRelease": "1.7",
+  "minApplicationRelease": "1.7",
   "serviceEnabled": true,
   "sessionTimeoutMinutes": 20,
   "failedAttempts": 5,
   "lockoutSeconds": 30,
-  "authUrl": "",
-  "dataUrl": "",
-  "dataVersion": "2026.09.07.01",
-  "lastUpdated": "2026-09-07T09:53:21.824Z",
+  "authUrl": "https://raw.githubusercontent.com/jitendraoptcl-gif/optcl-tenders/refs/heads/main/auth.json",
+  "dataUrl": "https://raw.githubusercontent.com/jitendraoptcl-gif/optcl-tenders/refs/heads/main/data.json",
+  "dataVersion": "2026.09.07.02",
+  "lastUpdated": "2026-09-07T10:13:30.174Z",
   "message": "Service available"
 }

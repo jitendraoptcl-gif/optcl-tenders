@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "events": [
     {
-      "timestamp": "2026-09-07T09:54:06.003Z",
-      "applicationRelease": "1.4",
-      "dataVersion": "2026.09.07.01",
+      "timestamp": "2026-09-07T10:13:30.314Z",
+      "applicationRelease": "1.7",
+      "dataVersion": "2026.09.07.02",
       "user": "admin",
       "event": "backend-export",
       "serviceEnabled": true
