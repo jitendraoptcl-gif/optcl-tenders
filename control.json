@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "applicationRelease": "1.4",
+  "minApplicationRelease": "1.4",
+  "serviceEnabled": true,
+  "sessionTimeoutMinutes": 20,
+  "failedAttempts": 5,
+  "lockoutSeconds": 30,
+  "authUrl": "",
+  "dataUrl": "",
+  "dataVersion": "2026.09.07.01",
+  "lastUpdated": "2026-09-07T09:53:21.824Z",
+  "message": "Service available"
+}
