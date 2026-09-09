@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "applicationRelease": "2.0",
+  "applicationRelease": "2.3",
   "dataVersion": "2026.09.09.03",
   "asOf": "09 Sept 2026",
   "label": "Loaded 257 CPC tenders from \"Tender stat 09092026.xlsx\" — refreshed 09 Sept 2026.",
-  "generatedAt": "2026-09-09T12:28:08.803Z",
+  "generatedAt": "2026-09-09T13:14:48.909Z",
   "rows": [
     {
       "sl": 51,
