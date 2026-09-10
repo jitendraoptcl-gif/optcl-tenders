@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "applicationRelease": "2.0",
+  "applicationRelease": "2.5",
   "minApplicationRelease": "1.17",
-  "serviceEnabled": true,
+  "serviceEnabled": false,
   "sessionTimeoutMinutes": 20,
   "failedAttempts": 5,
   "lockoutSeconds": 30,
   "authUrl": "https://raw.githubusercontent.com/jitendraoptcl-gif/optcl-tenders/refs/heads/main/auth.json",
   "dataUrl": "https://raw.githubusercontent.com/jitendraoptcl-gif/optcl-tenders/refs/heads/main/data.json",
   "dataVersion": "2026.09.07.02",
-  "lastUpdated": "2026-09-09T12:56:37.349Z",
-  "message": "Service available"
+  "lastUpdated": "2026-09-10T06:54:34.886Z",
+  "message": "System temporarily unavailable. Please contact the administrator."
 }
