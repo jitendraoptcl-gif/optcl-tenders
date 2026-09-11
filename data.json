@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "applicationRelease": "2.5",
-  "dataVersion": "2026.09.10.05",
-  "asOf": "10 Sept 2026",
-  "label": "Loaded 257 CPC tenders from \"Tender stat 10092026.xlsx\" — refreshed 10 Sept 2026.",
-  "generatedAt": "2026-09-10T07:55:00.585Z",
+  "dataVersion": "2026.09.11.03",
+  "asOf": "11 Sept 2026",
+  "label": "Loaded 312 CPC tenders from \"Tender stat 11092026.xlsx\" — refreshed 11 Sept 2026.",
+  "generatedAt": "2026-09-11T04:44:19.741Z",
   "rows": [
     {
-      "sl": 51,
+      "sl": 82,
       "tenderNo": "CPC -13/2025-26",
       "lineNo": "1",
       "name": "Providing service of manpower on contract outsourced basis for House-Keeping and sanitation Services at Transit House of OPTCL Hqrs. Office, BBSR, Guest House Puri,Rourkela and Berhampur and Catering Services at Transit House of OPTCL Hqrs.Office, BBSR and Guest House Puri.",
@@ -35,7 +35,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 52,
+      "sl": 83,
       "tenderNo": "CPC- 05 /2026-27",
       "lineNo": "LOT-1",
       "name": "Tender for selection of security agency for providing watch and ward service to OPTCL.",
@@ -63,7 +63,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 53,
+      "sl": 84,
       "tenderNo": "CPC- 05 /2026-27",
       "lineNo": "LOT-2",
       "name": "Tender for selection of security agency for providing watch and ward service to OPTCL.",
@@ -91,7 +91,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 54,
+      "sl": 85,
       "tenderNo": "CPC- 05 /2026-27",
       "lineNo": "LOT-3",
       "name": "Tender for selection of security agency for providing watch and ward service to OPTCL.",
@@ -119,7 +119,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 55,
+      "sl": 86,
       "tenderNo": "CPC- 05 /2026-27",
       "lineNo": "LOT-4",
       "name": "Tender for selection of security agency for providing watch and ward service to OPTCL.",
@@ -147,7 +147,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 56,
+      "sl": 87,
       "tenderNo": "CPC- 11/2024-25",
       "lineNo": "1",
       "name": "procurement of different size Control Cables for SAS projects",
@@ -175,7 +175,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 57,
+      "sl": 88,
       "tenderNo": "CPC- 16/2024-24",
       "lineNo": "1",
       "name": "PROCUREMENT OF Single tension Hardware Fittings for ACSR Zebra conductor",
@@ -203,7 +203,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 58,
+      "sl": 89,
       "tenderNo": "CPC- 22/2024-25",
       "lineNo": "1",
       "name": "Procurement of different Control cable for SAMAST projects.",
@@ -231,7 +231,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 59,
+      "sl": 90,
       "tenderNo": "CPC- 23/2026-27",
       "lineNo": "LOT I",
       "name": "Procurement of different size Control Cables under Triennial Procurement.",
@@ -259,7 +259,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 60,
+      "sl": 91,
       "tenderNo": "CPC- 23/2026-27",
       "lineNo": "LOT II",
       "name": "procurement of different size Power Cables under Triennial Procurement.",
@@ -287,7 +287,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 61,
+      "sl": 92,
       "tenderNo": "CPC- 33/2024-25",
       "lineNo": "Lot-I",
       "name": "Procurement of different size Control and Power Cables under Biennial Procurement 2024-25 and 2025-26.",
@@ -315,7 +315,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 62,
+      "sl": 93,
       "tenderNo": "CPC- 33/2024-25",
       "lineNo": "Lot-II",
       "name": "Procurement of different size Control and Power Cables under Biennial Procurement 2024-25 and 2025-26",
@@ -343,7 +343,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 63,
+      "sl": 94,
       "tenderNo": "CPC- 35/2026-27",
       "lineNo": "1",
       "name": "Procurement of 15 set Battery Charger Thyristor Control with Dropper Diode suitable for 220 V, 350 AH Vented Lead storage battery Plante Type.",
@@ -371,7 +371,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 64,
+      "sl": 95,
       "tenderNo": "CPC- 48/2025-26",
       "lineNo": "1",
       "name": "100 MVA, 220/33 KV POWER TRANSFORMER - 06 NOS.",
@@ -399,7 +399,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 65,
+      "sl": 96,
       "tenderNo": "CPC- 58/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 4 X 100 MVA, 220/33 kV GSS at Padepadar along with 220 kV DC Line from 220/33 kV GSS at Padepadar to exist. 220 kV S/Y UIHEP, Mukhiguda and 2 Nos. of 220kV Bays extensions at 220 kV S/Y UIHEP, Mukhiguda",
@@ -427,7 +427,63 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 66,
+      "sl": 97,
+      "tenderNo": "CPC-01/2024-25",
+      "lineNo": "Lot I",
+      "name": "Procurement of 220kV IVT",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-07-12",
+      "purEnd": "2024-08-12",
+      "bidEnd": "2024-08-12",
+      "tenderType": "Open",
+      "pubDate": "2024-07-12",
+      "estCost": 35872000,
+      "lastReceipt": "2024-08-12",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "techOpenDate": "2024-08-13",
+      "techQualified": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "techDisqualified": null,
+      "costOpenDate": "2024-10-18",
+      "costQualified": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 98,
+      "tenderNo": "CPC-01/2024-25",
+      "lineNo": "Lot II",
+      "name": "Procurement of 132kV IVT",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-07-12",
+      "purEnd": "2024-08-12",
+      "bidEnd": "2024-08-12",
+      "tenderType": "Open",
+      "pubDate": "2024-07-12",
+      "estCost": 37170000,
+      "lastReceipt": "2024-08-12",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.Pragati Electricals Pvt Ltd 3.JVS SWITCHGEARS LLP 4.mehru elect and mech engg pvt ltd",
+      "techOpenDate": "2024-08-13",
+      "techQualified": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "techDisqualified": "1.Pragati Electricals Pvt Ltd 2.JVS SWITCHGEARS LLP",
+      "costOpenDate": "2024-10-18",
+      "costQualified": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 99,
       "tenderNo": "CPC-01/2025-26",
       "lineNo": "I",
       "name": "Engineering, Supply, Erection, Testing and Commissioning of 132kV D/C 6 Phase / 6 conductor Line from existing 132/33kV Grid s/s, Boudh to proposed RTSS, Champapur alongwith 02 nos. of 132kV bay extensions at 132/33kV GSS, Boudh Line Length 9.6 KM Approx. for power supply to Champapur RTSS in Boudh District of Odisha, on EPC contract basis",
@@ -455,7 +511,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 67,
+      "sl": 100,
       "tenderNo": "CPC-01/2026-27",
       "lineNo": "1",
       "name": "Engineering Supply Erection Testing and commissioning of 2x200MVA, 220_132 KV and 2x100MVA 220_33 KV Grid Substation at Panikoili with LILO arrangement from 220KV New Duburi_Paradeep DC line to proposed 220_132_33 KV SubStation at Panikoili and 132KV LILO line from 132KV Jajpur Road_Kendrapada DC line to 220_132_33KV Grid Substation Panikoili on Turnkey basis.",
@@ -483,7 +539,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 68,
+      "sl": 101,
+      "tenderNo": "CPC-02/2024-25",
+      "lineNo": "1",
+      "name": "Procurement of Outdoor mounted live tank, single phase, single unit type 132kV Current Transformers for protection and metering services in 33KV, 132KV, 220KV and 400kV system.",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-06-27",
+      "purEnd": "2024-07-25",
+      "bidEnd": "2024-07-25",
+      "tenderType": "Open",
+      "pubDate": "2024-06-26",
+      "estCost": 77844600,
+      "lastReceipt": "2024-07-25",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.Pragati Electricals Pvt Ltd 3.JVS SWITCHGEARS LLP 4.mehru elect and mech engg pvt ltd",
+      "techOpenDate": "2024-07-26",
+      "techQualified": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "techDisqualified": "1.Pragati Electricals Pvt Ltd 2.JVS SWITCHGEARS LLP",
+      "costOpenDate": "2024-09-20",
+      "costQualified": "1.CG POWER AND INDUSTRIAL SOLUTIONS LIMITED 2.mehru elect and mech engg pvt ltd",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 102,
       "tenderNo": "CPC-02/2025-26",
       "lineNo": "Package-I",
       "name": "Engineering, Supply, Erection, Testing and commissioning of 2x500 MVA ICTs, 02 Nos. of 80 MVAR line reactors, 1no of 125 MVAR bus reactor, 400/220 KV GIS Grid Sub Station With SAS at Badakushasthali,Berhampur,Gopalpur",
@@ -511,7 +595,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 69,
+      "sl": 103,
       "tenderNo": "CPC-02/2025-26",
       "lineNo": "Package-II",
       "name": "Engineering, Supply, Erection, Testing and commissioning of 220 KV Double Circuit LILO line from existing 220 KV Therubali-Narendrapur DC line Existing Tower no-656 and 653 on 220KV Multi Circuit towers to proposed 400/220KV GIS Grid substation,Badakushasthali,Berhampur, Gopalpur. Approximate Line Length 3.7 KMs.",
@@ -539,7 +623,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 70,
+      "sl": 104,
       "tenderNo": "CPC-02/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Erection, Installation, Testing and Commissioning of 4th ICT 500 MVA, 400/220/33KV BHEL make along with Construction of one number 400KV Dia and 220KV Bay arrangement with construction of new 220KV Bay with associated system at existing 400/220KV Grid Sub-station, Mendhasal on Turnkey contract basis.",
@@ -567,7 +651,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 71,
+      "sl": 105,
+      "tenderNo": "CPC-03/2024-25",
+      "lineNo": "1",
+      "name": "EMPANELMENT OF QUALIFIED TRANSPORT CONTRACTORS IN RATE CONTRACT FOR LOADING UNLOADING DRAGGING AND TRANSPORTATION OF TRANSFORMERS RANGING FROM 12.5 MVA TO 500 MVA",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-07-09",
+      "purEnd": "2024-08-27",
+      "bidEnd": "2024-08-27",
+      "tenderType": "Open",
+      "pubDate": "2024-07-09",
+      "estCost": 0,
+      "lastReceipt": "2024-08-27",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.M/S DUSHASAN JENA AND CO 2.HS CARRIERS 3.Jcc India Pvt. Ltd 4.MFC Transport Pvt. Ltd. 5.SHIVASHAKTI SERVICES 6.Sidheswar Logistics",
+      "techOpenDate": "2024-08-28",
+      "techQualified": "1.HS CARRIERS 2.Jcc India Pvt. Ltd 3.Sidheswar Logistics",
+      "techDisqualified": "1.M/S DUSHASAN JENA AND CO 2.SHIVASHAKTI SERVICES",
+      "costOpenDate": "2024-10-18",
+      "costQualified": "1.HS CARRIERS 2.Jcc India Pvt. Ltd 3.Sidheswar Logistics",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 106,
       "tenderNo": "CPC-03/2025-26",
       "lineNo": "1",
       "name": "Procurement of 95 nos 50KG SF6 Gas Cylinders.",
@@ -595,7 +707,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 72,
+      "sl": 107,
       "tenderNo": "CPC-03/2026-27",
       "lineNo": "LOT-1",
       "name": "TENDER DOCUMENT FOR SELECTION OF AGENCY FOR PROVIDING THE SERVICES OF SKILLED/HIGH-SKILLED MANPOWER FOR VARIOUS MAINTENANCE WORKS OF GRID SUB STATIONS AND TRANSMISSION LINES OF OPTCL IN FOUR LOTS",
@@ -623,7 +735,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 73,
+      "sl": 108,
       "tenderNo": "CPC-03/2026-27",
       "lineNo": "LOT-2",
       "name": "TENDER DOCUMENT FOR SELECTION OF AGENCY FOR PROVIDING THE SERVICES OF SKILLED/HIGH-SKILLED MANPOWER FOR VARIOUS MAINTENANCE WORKS OF GRID SUB STATIONS AND TRANSMISSION LINES OF OPTCL IN FOUR LOTS",
@@ -651,7 +763,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 74,
+      "sl": 109,
       "tenderNo": "CPC-03/2026-27",
       "lineNo": "LOT-3",
       "name": "TENDER DOCUMENT FOR SELECTION OF AGENCY FOR PROVIDING THE SERVICES OF SKILLED/HIGH-SKILLED MANPOWER FOR VARIOUS MAINTENANCE WORKS OF GRID SUB STATIONS AND TRANSMISSION LINES OF OPTCL IN FOUR LOTS",
@@ -679,7 +791,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 75,
+      "sl": 110,
       "tenderNo": "CPC-03/2026-27",
       "lineNo": "LOT-4",
       "name": "TENDER DOCUMENT FOR SELECTION OF AGENCY FOR PROVIDING THE SERVICES OF SKILLED/HIGH-SKILLED MANPOWER FOR VARIOUS MAINTENANCE WORKS OF GRID SUB STATIONS AND TRANSMISSION LINES OF OPTCL IN FOUR LOTS",
@@ -707,7 +819,63 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 76,
+      "sl": 111,
+      "tenderNo": "CPC-04/2024-25",
+      "lineNo": "Lot 1",
+      "name": "PROCUREMENT OF 132kV PORCELAIN LONG ROD INSULTORS.",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-07-19",
+      "purEnd": "2024-08-21",
+      "bidEnd": "2024-08-21",
+      "tenderType": "Open",
+      "pubDate": "2024-07-19",
+      "estCost": 0,
+      "lastReceipt": "2024-08-21",
+      "nTenders": 1,
+      "status": "COST OPEN",
+      "qualified": 1,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.INSULATORS AND ELECTRICALS COMPANY 2.MODERN INSULATORS LIMITED 3.CJI PORCELAIN PRIVATE LIMITED",
+      "techOpenDate": "2024-08-22",
+      "techQualified": "1.MODERN INSULATORS LIMITED",
+      "techDisqualified": "1.INSULATORS AND ELECTRICALS COMPANY 2.CJI PORCELAIN PRIVATE LIMITED",
+      "costOpenDate": "2024-10-30",
+      "costQualified": "1.MODERN INSULATORS LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 1,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 112,
+      "tenderNo": "CPC-04/2024-25",
+      "lineNo": "Lot 2",
+      "name": "FOR PROCUREMENT OF 220kV PORCELAIN LONG ROD INSULTORS",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-07-19",
+      "purEnd": "2024-08-21",
+      "bidEnd": "2024-08-21",
+      "tenderType": "Open",
+      "pubDate": "2024-07-19",
+      "estCost": 0,
+      "lastReceipt": "2024-08-21",
+      "nTenders": 1,
+      "status": "COST OPEN",
+      "qualified": 1,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.INSULATORS AND ELECTRICALS COMPANY 2.MODERN INSULATORS LIMITED",
+      "techOpenDate": "2024-08-22",
+      "techQualified": "1.MODERN INSULATORS LIMITED",
+      "techDisqualified": "1.INSULATORS AND ELECTRICALS COMPANY",
+      "costOpenDate": "2024-10-30",
+      "costQualified": "1.MODERN INSULATORS LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 1,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 113,
       "tenderNo": "CPC-04/2025-26",
       "lineNo": "I",
       "name": "Construction of 220kV SC line on DC tower from existing 220/33kV GSS, Rengali to proposed RTSS, Khamar, approximate Line Length-25 KM, along with construction of one no. 220kV bay at GSS, Rengali on Turnkey Contract Basis",
@@ -735,7 +903,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 77,
+      "sl": 114,
       "tenderNo": "CPC-04/2026-27",
       "lineNo": "1",
       "name": "Engineering Supply Erection Testing and commissioning of i Construction of 01 no 132 kV Feeder Bay at 132 33kV Grid Nimapara and 01 no 132kV Feeder Bay at 132 33kV Grid Konark required for 132 kV Nimapara and Konark Ckt two Feeder along with stringing of 132 kV Nimapara- Konark Ckt II Line in existing DC Tower under EHT O and M Division Puri ii Construction of 02 no 132 kV Feeder Bays at 132 33kV Grid Banki required for 132kV Banki Nuapatna Ckt II and 132 kV Atri Banki CktII Feeder alongwith stringing of 132 kV Atri Banki Ckt II Line in existing DC Tower, under EHT O and M Division Khurdha iii Construction of 01 no 132 kV Feeder Bay at 132 33kV Grid Nuapatna required for 132 kV Nuapatna Banki Ckt II Feeder alongwith stringing of 132 kV Nuapatna Banki Ckt II Line in existing DC Tower under EHT O and M Division Choudwar on EPC contract basis",
@@ -763,7 +931,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 78,
+      "sl": 115,
       "tenderNo": "CPC-05/2025-26",
       "lineNo": "1",
       "name": "Filling of substation area with borrowed earth and compaction with supply of all labour and TnP for the SCBMCH project, Cuttack on EPC Contract Basis.",
@@ -791,7 +959,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 79,
+      "sl": 116,
       "tenderNo": "CPC-06/2025-26",
       "lineNo": "I",
       "name": "Design, Engineering and Construction of Suspended Cross Over Bridge over Taladanda Canal for crossing of the Underground Cables for SCBMCH Project, Cuttack, on EPC contract basis",
@@ -819,7 +987,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 80,
+      "sl": 117,
       "tenderNo": "CPC-06/2026-27",
       "lineNo": "1",
       "name": "PROCUREMENT OF 07 NOS. OF 500KVA, 33/0.433KV STATION TRANSFORMERS BIS ENERGY LEVEL-2.",
@@ -847,7 +1015,63 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 81,
+      "sl": 118,
+      "tenderNo": "CPC-07/2024-25",
+      "lineNo": "PKG I",
+      "name": "Engineering, Supply, Erection, Testing And Commissioning works for Diversion of 05 nos. 220kV EHT Lines for construction of proposed Railway Flyover from IB Railway Station to Brundamal Railway Station.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-08-28",
+      "purEnd": "2024-09-30",
+      "bidEnd": "2024-09-30",
+      "tenderType": "Open",
+      "pubDate": "2024-08-28",
+      "estCost": 208066116,
+      "lastReceipt": "2024-09-30",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.ABHISEK CONTECH INDIA PVT LTD 2.Emphoria Works Pvt. Ltd. 3.SIDDHARTHA ENGINEERING LIMITED",
+      "techOpenDate": "2024-10-01",
+      "techQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Emphoria Works Pvt. Ltd. 3.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-12-12",
+      "costQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Emphoria Works Pvt. Ltd. 3.SIDDHARTHA ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 119,
+      "tenderNo": "CPC-07/2024-25",
+      "lineNo": "PKG II",
+      "name": "Engineering, Supply, Erection, Testing And Commissioning works for Diversion of 05 nos. 132kV EHT Lines for construction of proposed Railway Flyover from IB Railway Station to Brundamal Railway Station.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-08-28",
+      "purEnd": "2024-09-30",
+      "bidEnd": "2024-09-30",
+      "tenderType": "Open",
+      "pubDate": "2024-08-28",
+      "estCost": 130111571,
+      "lastReceipt": "2024-09-30",
+      "nTenders": 2,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.R R ENGINEERS & SURVEYORS 2.ABHISEK CONTECH INDIA PVT LTD 3.Emphoria Works Pvt. Ltd. 4.SIDDHARTHA ENGINEERING LIMITED",
+      "techOpenDate": "2024-10-01",
+      "techQualified": "1.Emphoria Works Pvt. Ltd. 2.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": "1.R R ENGINEERS & SURVEYORS",
+      "costOpenDate": "2024-12-12",
+      "costQualified": "1.Emphoria Works Pvt. Ltd. 2.SIDDHARTHA ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 120,
       "tenderNo": "CPC-07/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 220kV D/C line from existing 220/33kV Grid Substation at Dasapalla to upcoming RTSS, Buguda Dasapalla along with 2 nos 220kV bay extension at 220/33kV Grid Substation at Dasapalla Line Length 0.55KM on Turnkey contract basis.",
@@ -875,7 +1099,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 82,
+      "sl": 121,
       "tenderNo": "CPC-07/2026-27",
       "lineNo": "1",
       "name": "Augmentation of Atri grid substation by 3rd 160MVA Auto transformer bay and 50MVA power transformer bay",
@@ -903,7 +1127,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 83,
+      "sl": 122,
       "tenderNo": "CPC-08/2024-25",
       "lineNo": "PKG I",
       "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x40 MVA 220 KV GIS And 33 KV AIS Grid S/S with SAS, at Angul New, Aluminium park on EPC Contract basis.",
@@ -931,7 +1155,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 84,
+      "sl": 123,
       "tenderNo": "CPC-08/2024-25",
       "lineNo": "PKG II",
       "name": "Engineering, Supply, Erection, Testing and Commissioning of Engineering, Supply, Erection, Testing and Commissioning of 220 KV LILO line from CKT-II of existing 220 KV Meramundali-Bhanjanagar DC line on EPC contract basis.",
@@ -959,7 +1183,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 85,
+      "sl": 124,
       "tenderNo": "CPC-08/2026-27",
       "lineNo": "1",
       "name": "PROCUREMENT OF 1C Cu 630 Sqmm 33kV XLPE UG Cable",
@@ -987,7 +1211,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 86,
+      "sl": 125,
       "tenderNo": "CPC-09/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 500 MVA, 400/220 KV ICT 02 NOs.",
@@ -1015,7 +1239,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 87,
+      "sl": 126,
       "tenderNo": "CPC-09/2026-27",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in existing 400 KV IB Lapanga DC after dismantling of twin AAAC Moose Conductor along with up gradation in main and tie bay of IB circuit at Lapanga Grid Substation on turnkey contract basis in Sambalpur District",
@@ -1043,7 +1267,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 88,
+      "sl": 127,
       "tenderNo": "CPC-10/2025-26",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing And Commissioning of 2nd Circuit Stringing of the 132kV Kendrapara-Pattamundai line on existing DC Tower including construction of 17 nos. of Interposing Towers with bay extension work at 132/33kV Gird S/s, Kendrapara and Pattamundai ends Line Length 21KM On EPC contract basis.",
@@ -1071,7 +1295,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 89,
+      "sl": 128,
       "tenderNo": "CPC-10/2026-27",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in existing 220 KV Lapanga-Katapali DC line from Loc. No-1 to 201 after dismantling of ACSR Zebra Conductor on turnkey contract basis.",
@@ -1099,7 +1323,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 90,
+      "sl": 129,
       "tenderNo": "CPC-11/2025-26",
       "lineNo": "I",
       "name": "PROCUREMENT OF 420KV, 125MVAR BUS REACTOR - 2 NOs.",
@@ -1127,7 +1351,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 91,
+      "sl": 130,
       "tenderNo": "CPC-11/2026-27",
       "lineNo": "1",
       "name": "Strining of Sag HTLS Conductor in existing 220 KV Budhipadar-Lapanga DC line from Loc. No-1 to 63 after dismantling of ACSR Zebra Conductor on turnkey contract basis.",
@@ -1155,7 +1379,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 92,
+      "sl": 131,
       "tenderNo": "CPC-12/2024-25",
       "lineNo": "1",
       "name": "Enlistment of Firms in rate contract for supply hot dip Galvanized steel structure materials HT and MS HDG Nut and bolts and accessories for Transmission Line towers and Substation equipment structures as per OPTCL design",
@@ -1183,7 +1407,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 93,
+      "sl": 132,
       "tenderNo": "CPC-12/2026-27",
       "lineNo": "1",
       "name": "Procurement of Three Stack 400kV Post Insulator.",
@@ -1195,14 +1419,14 @@
       "pubDate": "2026-04-20",
       "estCost": 1947000,
       "lastReceipt": "2026-08-17",
-      "nTenders": null,
-      "status": "INPROGRESS",
-      "qualified": 0,
+      "nTenders": 1,
+      "status": "TECHNO COMMERCIAL OPEN",
+      "qualified": 1,
       "disqualified": 0,
       "year": 2026,
-      "bidders": null,
+      "bidders": "1.CJI PORCELAIN PRIVATE LIMITED",
       "techOpenDate": "2026-08-18",
-      "techQualified": null,
+      "techQualified": "1.CJI PORCELAIN PRIVATE LIMITED",
       "techDisqualified": null,
       "costOpenDate": null,
       "costQualified": null,
@@ -1211,7 +1435,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 94,
+      "sl": 133,
       "tenderNo": "CPC-13/2024-25",
       "lineNo": "LOT-I",
       "name": "Enlistment of Firms/ contractors in rate contract for carrying out Survey for upcoming project of OPTCL as per tender specification.",
@@ -1239,7 +1463,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 95,
+      "sl": 134,
       "tenderNo": "CPC-13/2024-25",
       "lineNo": "LOT-II",
       "name": "Enlistment of Firms/ contractors in rate contract for carrying out Forest Clearance for upcoming project of OPTCL as per tender specification.",
@@ -1267,7 +1491,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 96,
+      "sl": 135,
       "tenderNo": "CPC-13/2024-25",
       "lineNo": "LOT-III",
       "name": "Enlistment of Firms/ contractors in rate contract for carrying out Geo Technical Soil Investigation for upcoming project of OPTCL as per tender specification.",
@@ -1295,7 +1519,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 97,
+      "sl": 136,
       "tenderNo": "CPC-13/2024-25",
       "lineNo": "LOT-IV",
       "name": "Enlistment of Firms/ contractors in rate contract for Preparation of detail project report for upcoming project of OPTCL as per tender specification.",
@@ -1323,7 +1547,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 98,
+      "sl": 137,
       "tenderNo": "CPC-13/2026-27",
       "lineNo": "1",
       "name": "TENDER FOR SELECTION OF AGENCY FOR PROVIDING SERVICES OF MANPOWER DEO and ATTENDANT ON OUTSOURCED BASIS TO OPTCL",
@@ -1351,7 +1575,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 99,
+      "sl": 138,
       "tenderNo": "CPC-14/2024-25",
       "lineNo": "1",
       "name": "Engineering Supply Erection Testing and Commissioning of High Temperature Low Sag Conductor after dismantling of ACSR Zebra Conductor in existing Joda_JSPL Portion of Joda _Jamshedpur 220kV Line in Keonjhar District on turnkey contract basis.",
@@ -1379,7 +1603,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 100,
+      "sl": 139,
       "tenderNo": "CPC-14/2026-27",
       "lineNo": "1",
       "name": "TENDER FOR SELECTION OF AGENCY FOR PROVIDING SERVICES OF MANPOWER MISC. ON CONTRACT OUTSOURCED BASIS TO OPTCL",
@@ -1407,7 +1631,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 101,
+      "sl": 140,
       "tenderNo": "CPC-15/2024-25",
       "lineNo": "1",
       "name": "Construction of 132kV LILO Line from existing 132kV Podagada-Pottangi SC Line Loc-61 n 62 to 132/33kV GSS, Lamtaput along with dismantling of towers from Loc No-68 to 96 of existing Lamtaput-Machhkund RTSS Line on Turnkey Contract Basis.",
@@ -1435,7 +1659,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 102,
+      "sl": 141,
       "tenderNo": "CPC-15/2025-26",
       "lineNo": "I",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of 132kV S/C Line 3 Phase / 3 conductor on DC Towers from existing 132/33kV Grid S/s, Tirtol to proposed RTSS, Gorekhnath alongwith 01 no. of 132kV bay extensions at 132/33kV Grid S/s, Tirtol Line Length 15.074 KM Approx for power supply to Gorekhnath RTSS in Jagatsinghpur District of Odisha, on EPC contract basis",
@@ -1463,7 +1687,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 103,
+      "sl": 142,
       "tenderNo": "CPC-15/2026-27",
       "lineNo": "1",
       "name": "e- Tender for Providing Catering Services at Transit House, Bhubaneswar and Guest House Puri,OPTCL",
@@ -1491,7 +1715,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 104,
+      "sl": 143,
       "tenderNo": "CPC-16/2025-26",
       "lineNo": "1",
       "name": "Forest clearance work for an area of approx 100 Acres of land proposed for construction of 400KV_220kV AIS at Therubali.",
@@ -1519,7 +1743,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 105,
+      "sl": 144,
       "tenderNo": "CPC-16/2026-27",
       "lineNo": "1",
       "name": "eTender for Providing Housekeeping and Sanitation Services on contract basis at Transit House Bhubaneswar Guest House Puri Guest House Rourkela and Guest House Berhampur of OPTCL",
@@ -1547,7 +1771,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 106,
+      "sl": 145,
+      "tenderNo": "CPC-17/2023-24",
+      "lineNo": "I",
+      "name": "SUPPLY OF DIFFERENT TYPES OF OPTICAL FIBRE TESTING EQUIPMENT",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-02-26",
+      "purEnd": "2024-05-18",
+      "bidEnd": "2024-05-18",
+      "tenderType": "Open",
+      "pubDate": "2024-02-26",
+      "estCost": 11627578,
+      "lastReceipt": "2024-05-18",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.DRON EDGE INDIA PRIVATE LIMITED 2.M/S JBS POWERS 3.Khushi Communications Pvt. Ltd. 4.Savitri Telecom Services",
+      "techOpenDate": "2024-05-20",
+      "techQualified": "1.Khushi Communications Pvt. Ltd. 2.Savitri Telecom Services",
+      "techDisqualified": "1.DRON EDGE INDIA PRIVATE LIMITED",
+      "costOpenDate": "2024-11-29",
+      "costQualified": "1.Khushi Communications Pvt. Ltd. 2.Savitri Telecom Services",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 146,
       "tenderNo": "CPC-17/2025-26",
       "lineNo": "Package-I",
       "name": "Engineering, Supply, Erection, Testing and commissioning of 2x500 MVA, 2x100MVA, 400/220 KV GIS and 33kV AIS Grid Sub Station With SAS at Gopalpur",
@@ -1575,7 +1827,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 107,
+      "sl": 147,
       "tenderNo": "CPC-17/2025-26",
       "lineNo": "Package-II",
       "name": "Engineering, Supply, Erection, Testing and commissioning of 220 KV Double Circuit LILO line from existing 220 KV Therubali Atri DC line to proposed 400/220/33 KV GIS Grid substation at Gopalpur.Approximate Line Length 13 KMs.",
@@ -1603,7 +1855,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 108,
+      "sl": 148,
       "tenderNo": "CPC-17/2026-27",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor after dismantling of ACSR Panther Conductor in existing 132 KV Lapanga Aryan Viraj Shyam DRI SC line along with up-gradation of requisite bay equipment",
@@ -1631,7 +1883,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 109,
+      "sl": 149,
       "tenderNo": "CPC-18/2024-25",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing and Commissioning for diversion of 132kV Khurda- Mendhsal SC line HTLS Conductor from Loc No.112 to 117 and diversion of 220kV Mendhasal- Atri DC line from Loc no-520 to 528 due to shifting of existing location no-524 by Monopole tower for proposed corrider of Khurda bypass road on NH- 57 on turnkey contract basis in Khurda District.",
@@ -1659,7 +1911,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 110,
+      "sl": 150,
       "tenderNo": "CPC-18/2025-26",
       "lineNo": "1",
       "name": "Forest clearance work of an area of 40.85 Ha of land proposed for construction of 765KV_400kV GSS at Mouza Kullihamal and Pokharasale under Kolabira Tahasil Jharsuguda.",
@@ -1687,7 +1939,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 111,
+      "sl": 151,
       "tenderNo": "CPC-18/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Erection, Installation, Testing and Commissioning of 01 no. of 132kV AIS Bay Extension at 220/132/33kV GSS ATRI and associated 132kV S/C Line from 220/132/33KV GSS Atri to M/s Jupiter Tatravagonka Railwheel Factory Pvt. Ltd., Haladiapada Approx. Line Length- 7.452 Kms. with provision of 132kV 630 Sq.mm XLPE Copper Under Ground cable S/C for Gantry take off arrangement on Turnkey contract basis.",
@@ -1715,7 +1967,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 112,
+      "sl": 152,
+      "tenderNo": "CPC-19/2023-24",
+      "lineNo": "I",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x40 MVA, 220/33KV Gas Insulated Sub-station_220KV GIS and 33KV AIS System with SAS at Ranua, Jajpur alongwith associated 220 KV LILO Transmission line from Location 108 of Ckt-I of existing DC Line of 220KV New Duburi-Dhamara-Balasore to proposed substation on Turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-13",
+      "bidEnd": "2024-02-13",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 755766712,
+      "lastReceipt": "2024-02-13",
+      "nTenders": 2,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.MBH POWER PRIVATE LIMITED 2.SIDDHARTHA ENGINEERING LIMITED",
+      "techOpenDate": "2024-02-15",
+      "techQualified": "1.MBH POWER PRIVATE LIMITED 2.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 153,
       "tenderNo": "CPC-19/2024-25",
       "lineNo": "1",
       "name": "Diversion of 05 nos. 132kV EHT Lines under OnM Division, Jharsuguda for construction of proposed Railway Flyover connecting from IB Railway Station to Brundamal Railway Station on EPC Contract Basis.",
@@ -1743,7 +2023,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 113,
+      "sl": 154,
       "tenderNo": "CPC-19/2025-26",
       "lineNo": "Lot I",
       "name": "PROCUREMENT OF 420KV, 125MVAR BUS REACTOR - 1 NO.",
@@ -1771,7 +2051,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 114,
+      "sl": 155,
       "tenderNo": "CPC-19/2025-26",
       "lineNo": "Lot II",
       "name": "PROCUREMENT OF 400KV, 80MVAR LINE REACTOR EACH WITH132KV NGR - 2 NOs.",
@@ -1799,7 +2079,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 115,
+      "sl": 156,
       "tenderNo": "CPC-19/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 1 no 220 kV and 1 no 132 kV Transformer Bays along with connection to the 132kV feeder through UG cable and Erection of 160 MVA, 220/132 kV Auto Transformer at 220/132kV GSS Bhadrak on Turnkey contract basis.",
@@ -1827,7 +2107,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 116,
+      "sl": 157,
       "tenderNo": "CPC-20/2024-25",
       "lineNo": "I",
       "name": "ENLISTMENT OF REPUTED FIRMS FOR WORKS RATE CONTRACT FOR EXECUTION OF EMERGENCY /NORMAL OPGW STRINGING AND MAINTENANCE WORKS IN EHV TRANSMISSION LINES IN OPTCL SYSTEM.",
@@ -1855,7 +2135,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 117,
+      "sl": 158,
       "tenderNo": "CPC-20/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 100MVA, 220/33 KV Power Transformer - 02 Nos",
@@ -1883,7 +2163,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 118,
+      "sl": 159,
       "tenderNo": "CPC-20/2026-27",
       "lineNo": "1",
       "name": "FOR IT FACILITY MANAGEMENT SEVICE",
@@ -1911,7 +2191,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 119,
+      "sl": 160,
       "tenderNo": "CPC-21/ 2026-27",
       "lineNo": "LOT-I",
       "name": "Triennial procurement of 15 Nos. of 250kVA of 33/0.433kV Station Transformers.",
@@ -1939,7 +2219,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 120,
+      "sl": 161,
       "tenderNo": "CPC-21/ 2026-27",
       "lineNo": "LOT-II",
       "name": "Triennial procurement of 05 Nos. of 500 kVA of 33/0.433kV Station Transformers.",
@@ -1967,7 +2247,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 121,
+      "sl": 162,
       "tenderNo": "CPC-21/ 2026-27",
       "lineNo": "LOT-III",
       "name": "Triennial procurement of 01 Nos. of 1000 kVA of 33/0.433kV Station Transformers.",
@@ -1995,7 +2275,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 122,
+      "sl": 163,
       "tenderNo": "CPC-21/2024-25",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing and commissioning of 2x500MVA and 2x20MVA 400/220/33KV GIS Grid substation at Badakushasthali Berhampur, Gopalpur along with 400KV DC line from existing 400KV Grid S/S, Pandiabili PGCIL to proposed 400/220/33KV GIS Grid S/s, Badakushasthali Berhampur, Gopalpur OPTCL -Approx. line length 147.308 KMs and 220KV Multi circuit line for in and out of 220KV Narendrapur- Therubali D/C transmission line -Approx. Line length 3.7KMs",
@@ -2023,7 +2303,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 123,
+      "sl": 164,
       "tenderNo": "CPC-22/2025-26",
       "lineNo": "1",
       "name": "Upgradation of 132/33kV GIS, Khuntuni with 220KV AIS switchyard with 02 nos. of 220/132kV, 200MVA Auto transformer and 220KV DC line from 400/220/33 KV grid substation Neulpoi to existing 132/33kV GIS substation, Khuntuni",
@@ -2051,7 +2331,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 124,
+      "sl": 165,
       "tenderNo": "CPC-22/2026-27",
       "lineNo": "LOT-I",
       "name": "Procurement of Isolators-33kV for the 1st FY 2026-27 under the Triennial Procurement Plan FY-2026-27 to 2028-29",
@@ -2079,7 +2359,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 125,
+      "sl": 166,
       "tenderNo": "CPC-22/2026-27",
       "lineNo": "LOT-II",
       "name": "Procurement of Isolators-132KV for the 1st FY 2026-27 under the Triennial Procurement Plan FY-2026-27 to 2028-29",
@@ -2107,7 +2387,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 126,
+      "sl": 167,
       "tenderNo": "CPC-22/2026-27",
       "lineNo": "LOT-III",
       "name": "Procurement of Isolators-220kV for the 1st FY 2026-27 under the Triennial Procurement Plan FY-2026-27 to 2028-29",
@@ -2135,7 +2415,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 127,
+      "sl": 168,
       "tenderNo": "CPC-22/2026-27",
       "lineNo": "LOT-IV",
       "name": "Procurement of Isolators-400kV for the 1st FY 2026-27 under the Triennial Procurement Plan FY-2026-27 to 2028-29",
@@ -2163,7 +2443,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 128,
+      "sl": 169,
       "tenderNo": "CPC-23/2024-25",
       "lineNo": "I",
       "name": "Enlistment of Firms/ Contractors in works rate contract with discovery of prices through percentage bidding for execution of Emergency and Normal works in 33kV system.",
@@ -2191,7 +2471,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 129,
+      "sl": 170,
       "tenderNo": "CPC-23/2024-25",
       "lineNo": "II",
       "name": "Enlistment of Firms/ Contractors in works rate contract with discovery of prices through percentage bidding for execution of Emergency and Normal works in 400kV, 220kV, 132kV and 33kV Substation and Transmission Lines",
@@ -2219,7 +2499,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 130,
+      "sl": 171,
       "tenderNo": "CPC-23/2025-26",
       "lineNo": "1",
       "name": "Engineering,Supply,Erection,Testing andCommissioning of 3rd 500 MVA, 400/220kV ICT along with Construction of one of 400KV Dia and one no. of 220KV bay at 400/220/132/33 kV GSS, Lapanga on turnkey contract basis.",
@@ -2247,7 +2527,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 131,
+      "sl": 172,
+      "tenderNo": "CPC-24/2023-24",
+      "lineNo": "1",
+      "name": "Construction of 132kV SC line through UG cabling With one spare cable from 220/132/33kV GSS Samagara to 132/33kV GSS Puri with one no 132kV bay extension at both GSS.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-27",
+      "bidEnd": "2024-02-27",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 232500000,
+      "lastReceipt": "2024-02-27",
+      "nTenders": 4,
+      "status": "COST OPEN",
+      "qualified": 4,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Universal Cables Limited 4.ABHISEK CONTECH INDIA PVT LTD 5.KEC International Limited 6.LS CABLE INDIA PRIVATE LIMITED 7.Rahul Cables Private Limited",
+      "techOpenDate": "2024-02-28",
+      "techQualified": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Universal Cables Limited 4.KEC International Limited",
+      "techDisqualified": "1.Rahul Cables Private Limited",
+      "costOpenDate": "2024-03-13",
+      "costQualified": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Universal Cables Limited 4.KEC International Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 4,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 173,
       "tenderNo": "CPC-24/2024-25",
       "lineNo": "I",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 4nos 132kV AIS Bays at 132/25kV Manabar RTSS and 2nos 132kV AIS Bays at 132/33kV Grid Substation, Sunabeda with associated 132 KV DC Line from existing 132/33kV Grid Substation, Sunabeda to 132/25kV RTSS, Manabar-Line Length 25.419KM on EPC contract basis.",
@@ -2275,7 +2583,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 132,
+      "sl": 174,
       "tenderNo": "CPC-24/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 2 X 500 MVA, 400/220 KV GIS Grid Sub-station at Ramkrushnapur in Bhadrak District on EPC/Turnkey CONTRACT BASIS.",
@@ -2303,25 +2611,25 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 133,
+      "sl": 175,
       "tenderNo": "CPC-24/2026-27",
       "lineNo": "Lot-I",
       "name": "Procurement of outdoor mounted live tank type, single phase, single unit type 400kV type Current Transformers under triennial procurement plan26-27, 27-28 and 28-29.",
       "cot": "OPTCL-Goods",
       "purStart": "2026-06-19",
-      "purEnd": "2026-09-10",
-      "bidEnd": "2026-09-10",
+      "purEnd": "2026-09-28",
+      "bidEnd": "2026-09-28",
       "tenderType": "Open",
       "pubDate": "2026-06-19",
       "estCost": 6018000,
-      "lastReceipt": "2026-09-10",
+      "lastReceipt": "2026-09-28",
       "nTenders": null,
       "status": "INPROGRESS",
       "qualified": 0,
       "disqualified": 0,
       "year": 2026,
       "bidders": null,
-      "techOpenDate": "2026-09-10",
+      "techOpenDate": "2026-09-28",
       "techQualified": null,
       "techDisqualified": null,
       "costOpenDate": null,
@@ -2331,25 +2639,25 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 134,
+      "sl": 176,
       "tenderNo": "CPC-24/2026-27",
       "lineNo": "Lot-II",
       "name": "Procurement of outdoor mounted live tank type, single phase, single unit type 220kV type Current Transformers under triennial procurement plan26-27, 27-28 and 28-29",
       "cot": "OPTCL-Goods",
       "purStart": "2026-06-19",
-      "purEnd": "2026-09-10",
-      "bidEnd": "2026-09-10",
+      "purEnd": "2026-09-28",
+      "bidEnd": "2026-09-28",
       "tenderType": "Open",
       "pubDate": "2026-06-19",
       "estCost": 29795000,
-      "lastReceipt": "2026-09-10",
+      "lastReceipt": "2026-09-28",
       "nTenders": null,
       "status": "INPROGRESS",
       "qualified": 0,
       "disqualified": 0,
       "year": 2026,
       "bidders": null,
-      "techOpenDate": "2026-09-10",
+      "techOpenDate": "2026-09-28",
       "techQualified": null,
       "techDisqualified": null,
       "costOpenDate": null,
@@ -2359,25 +2667,25 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 135,
+      "sl": 177,
       "tenderNo": "CPC-24/2026-27",
       "lineNo": "Lot-III",
       "name": "Procurement of outdoor mounted live tank type, single phase, single unit type 132kV type Current Transformers under triennial procurement plan26-27, 27-28 and 28-29",
       "cot": "OPTCL-Goods",
       "purStart": "2026-06-19",
-      "purEnd": "2026-09-10",
-      "bidEnd": "2026-09-10",
+      "purEnd": "2026-09-28",
+      "bidEnd": "2026-09-28",
       "tenderType": "Open",
       "pubDate": "2026-06-19",
       "estCost": 42382608,
-      "lastReceipt": "2026-09-10",
+      "lastReceipt": "2026-09-28",
       "nTenders": null,
       "status": "INPROGRESS",
       "qualified": 0,
       "disqualified": 0,
       "year": 2026,
       "bidders": null,
-      "techOpenDate": "2026-09-10",
+      "techOpenDate": "2026-09-28",
       "techQualified": null,
       "techDisqualified": null,
       "costOpenDate": null,
@@ -2387,25 +2695,25 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 136,
+      "sl": 178,
       "tenderNo": "CPC-24/2026-27",
       "lineNo": "Lot-IV",
       "name": "Procurement of outdoor mounted live tank type, single phase, single unit type 33kV type Current Transformers under triennial procurement plan26-27, 27-28 and 28-29",
       "cot": "OPTCL-Goods",
       "purStart": "2026-06-19",
-      "purEnd": "2026-09-10",
-      "bidEnd": "2026-09-10",
+      "purEnd": "2026-09-28",
+      "bidEnd": "2026-09-28",
       "tenderType": "Open",
       "pubDate": "2026-06-19",
       "estCost": 28073633,
-      "lastReceipt": "2026-09-10",
+      "lastReceipt": "2026-09-28",
       "nTenders": null,
       "status": "INPROGRESS",
       "qualified": 0,
       "disqualified": 0,
       "year": 2026,
       "bidders": null,
-      "techOpenDate": "2026-09-10",
+      "techOpenDate": "2026-09-28",
       "techQualified": null,
       "techDisqualified": null,
       "costOpenDate": null,
@@ -2415,7 +2723,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 137,
+      "sl": 179,
       "tenderNo": "CPC-25/2024-25",
       "lineNo": "I",
       "name": "Supply of EHV Grade Naphthalene base Transformer oil",
@@ -2443,7 +2751,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 138,
+      "sl": 180,
       "tenderNo": "CPC-25/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of 100MVA, 132/132kV Phase Sifting Transformer at 220/132/33kV Grid Sub-Station, Jayanagar for evacuation of 50% Odisha share from Machkund Hydro Electric power project on Turnkey contract basis in Koraput District of Odisha",
@@ -2471,7 +2779,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 139,
+      "sl": 181,
       "tenderNo": "CPC-25/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of work towards Construction of 400kV Indravati to Therubali Double Circuit Transmission Line from proposed 600MW, PSP Sub Station at Mukhiguda to proposed 400/220kV GSS Therubali with Twin ACSR Moose conductor and towers suitable for Quad Moose configuration Line Length 93.25 KMs Approx. in the State of Odisha, on EPC contract basis.",
@@ -2499,7 +2807,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 140,
+      "sl": 182,
+      "tenderNo": "CPC-26/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2 x 40 MVA 132/33 KV Grid sub-station with SAS at Bijepur along with its associated 132 KV LILO line of 132 KV New Bargarh-Ghens line",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-11",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 277654458,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 4,
+      "status": "COST OPEN",
+      "qualified": 4,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.Oomkar Technical Services Private Limited 3.ABHISEK CONTECH INDIA PVT LTD 4.Emphoria Works Pvt. Ltd. 5.MBH POWER PRIVATE LIMITED 6.empowertrans private limited",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.Oomkar Technical Services Private Limited 3.ABHISEK CONTECH INDIA PVT LTD 4.Emphoria Works Pvt. Ltd.",
+      "techDisqualified": null,
+      "costOpenDate": "2024-02-20",
+      "costQualified": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.Oomkar Technical Services Private Limited 3.ABHISEK CONTECH INDIA PVT LTD 4.Emphoria Works Pvt. Ltd.",
+      "costDisqualified": null,
+      "costQualifiedCount": 4,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 183,
       "tenderNo": "CPC-26/2024-25",
       "lineNo": "Lot-I",
       "name": "Procurement of 400kV Capacitive Voltage Transformers.",
@@ -2527,7 +2863,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 141,
+      "sl": 184,
       "tenderNo": "CPC-26/2024-25",
       "lineNo": "Lot-II",
       "name": "Procurement of 132kV Inductive Voltage Transformer.",
@@ -2555,7 +2891,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 142,
+      "sl": 185,
       "tenderNo": "CPC-26/2024-25",
       "lineNo": "Lot-III",
       "name": "Procurement of 33kV 0.2S Potential Transformer.",
@@ -2583,7 +2919,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 143,
+      "sl": 186,
       "tenderNo": "CPC-26/2026-27",
       "lineNo": "1",
       "name": "Procurement of different size Control Cables for bay extension work under O and M and Project wing",
@@ -2595,15 +2931,43 @@
       "pubDate": "2026-06-05",
       "estCost": 0,
       "lastReceipt": "2026-07-01",
-      "nTenders": 4,
-      "status": "TECHNO COMMERCIAL OPEN",
-      "qualified": 4,
-      "disqualified": 0,
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 1,
       "year": 2026,
       "bidders": "1.CABCON INDIA PVT LTD 2.LUMINO INDUSTRIES LIMITED 3.Zenium Cables Limited 4.HYPHEN CABLES PRIVATE LIMITED 5.PRIME CABLE INDUSTRIES LIMITED 6.Suraj Cables India Private Limited",
       "techOpenDate": "2026-07-01",
-      "techQualified": "1.CABCON INDIA PVT LTD 2.Zenium Cables Limited 3.HYPHEN CABLES PRIVATE LIMITED 4.Suraj Cables India Private Limited",
-      "techDisqualified": "1.LUMINO INDUSTRIES LIMITED 2.PRIME CABLE INDUSTRIES LIMITED",
+      "techQualified": "1.CABCON INDIA PVT LTD 2.Zenium Cables Limited 3.Suraj Cables India Private Limited",
+      "techDisqualified": "1.LUMINO INDUSTRIES LIMITED 2.HYPHEN CABLES PRIVATE LIMITED 3.PRIME CABLE INDUSTRIES LIMITED",
+      "costOpenDate": "2026-09-10",
+      "costQualified": "1.CABCON INDIA PVT LTD 2.Zenium Cables Limited 3.Suraj Cables India Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 187,
+      "tenderNo": "CPC-27/2023-24",
+      "lineNo": "LOT-I",
+      "name": "EXPRESSION OF INTEREST ENGAGEMENT OF CONSULTANT AT OPTCL FOR Transmission and Distribution Planning",
+      "cot": "OPTCL-Services",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-19",
+      "bidEnd": "2024-02-19",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 0,
+      "lastReceipt": "2024-02-19",
+      "nTenders": 1,
+      "status": "CANCELLED",
+      "qualified": 1,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.Power Research and Development Consultants Private Limited(PRDC)",
+      "techOpenDate": "2024-02-20",
+      "techQualified": null,
+      "techDisqualified": null,
       "costOpenDate": null,
       "costQualified": null,
       "costDisqualified": null,
@@ -2611,7 +2975,91 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 144,
+      "sl": 188,
+      "tenderNo": "CPC-27/2023-24",
+      "lineNo": "LOT-II",
+      "name": "EXPRESSION OF INTEREST FOR ENGAGEMENT OF CONSULTANT AT OPTCL FOR PROCUREMENT",
+      "cot": "OPTCL-Services",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-19",
+      "bidEnd": "2024-02-19",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 0,
+      "lastReceipt": "2024-02-19",
+      "nTenders": 2,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.Power Research and Development Consultants Private Limited(PRDC) 2.DELOITTE TOUCHE TOHMATSU INDIA LLP",
+      "techOpenDate": "2024-02-20",
+      "techQualified": "1.Power Research and Development Consultants Private Limited(PRDC) 2.DELOITTE TOUCHE TOHMATSU INDIA LLP",
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 189,
+      "tenderNo": "CPC-27/2023-24",
+      "lineNo": "LOT-III",
+      "name": "EXPRESSION OF INTEREST FOR ENGAGEMENT OF CONSULTANT AT OPTCL FOR Construction",
+      "cot": "OPTCL-Services",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-19",
+      "bidEnd": "2024-02-19",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 0,
+      "lastReceipt": "2024-02-19",
+      "nTenders": null,
+      "status": "CANCELLED",
+      "qualified": 0,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": null,
+      "techOpenDate": "2024-02-20",
+      "techQualified": null,
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 190,
+      "tenderNo": "CPC-27/2023-24",
+      "lineNo": "LOT-IV",
+      "name": "EXPRESSION OF INTEREST FOR ENGAGEMENT OF CONSULTANT AT OPTCL Finance and Regulatory Affair",
+      "cot": "OPTCL-Services",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-19",
+      "bidEnd": "2024-02-19",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 0,
+      "lastReceipt": "2024-02-19",
+      "nTenders": 2,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.Power Research and Development Consultants Private Limited(PRDC) 2.DELOITTE TOUCHE TOHMATSU INDIA LLP",
+      "techOpenDate": "2024-02-20",
+      "techQualified": "1.Power Research and Development Consultants Private Limited(PRDC) 2.DELOITTE TOUCHE TOHMATSU INDIA LLP",
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 191,
       "tenderNo": "CPC-27/2024-25",
       "lineNo": "1",
       "name": "Procurement of various hardware fitting and accessories for different type of conductors",
@@ -2639,7 +3087,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 145,
+      "sl": 192,
       "tenderNo": "CPC-27/2025-26",
       "lineNo": "1",
       "name": "Construction of 132/33kV GIS Sub-Station at Autonagar with 132kV DC line through Underground Cable from existing 220/132/33kV GSS at Narendrapur to Autonagar along with 02 number of AIS bay extension at GSS Narendrapur on Turnkey Contract Basis.",
@@ -2667,7 +3115,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 146,
+      "sl": 193,
       "tenderNo": "CPC-27/2026-27",
       "lineNo": "1",
       "name": "TENDER FOR PROVIDING FACILITY MANAGEMENT SERVICES HOUSE- KEEPING AND SANITATION AT OPTCL HQ, BHUBANESWAR",
@@ -2695,7 +3143,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 147,
+      "sl": 194,
+      "tenderNo": "CPC-28/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2 x 40 MVA, 220/33 KV Grid Sub-Station at Sarasmal, Rampur with 220KV LILO Line of 220 KV Kiakata - Katapali Line on Turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-12",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 661497853,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 4,
+      "year": 2024,
+      "bidders": "1.Emphoria Works Pvt. Ltd. 2.Groma Infrastructure Limited 3.MBH POWER PRIVATE LIMITED 4.SIDDHARTHA ENGINEERING LIMITED 5.empowertrans private limited 6.Suncity Urja Private Limited",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.Groma Infrastructure Limited 2.empowertrans private limited",
+      "techDisqualified": "1.MBH POWER PRIVATE LIMITED",
+      "costOpenDate": "2024-02-27",
+      "costQualified": "1.Groma Infrastructure Limited 2.empowertrans private limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 195,
       "tenderNo": "CPC-28/2024-25",
       "lineNo": "I",
       "name": "Procurement of 220V, 350 AH, Vented Lead Acid Storage Battery Plante type",
@@ -2723,7 +3199,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 148,
+      "sl": 196,
       "tenderNo": "CPC-28/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 500 MVA,400/220 KV ICT 02 NOs",
@@ -2751,7 +3227,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 149,
+      "sl": 197,
       "tenderNo": "CPC-28/2026-27",
       "lineNo": "1",
       "name": "Procurement of 90KN, 120KN and 160KN Anti fog Disc Insulator",
@@ -2779,7 +3255,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 150,
+      "sl": 198,
+      "tenderNo": "CPC-29/2023-24",
+      "lineNo": "1",
+      "name": "Construction of 2x40 MVA, 220/33 KV Grid Sub-Station with SAS at Janhapada, Parjang and 220 KV D/C LILO line from existing 220KV Meramundali- Duburi D/C Line on Turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-12",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 374361670,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 4,
+      "status": "COST OPEN",
+      "qualified": 4,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.AmaraRaja Infra Private Limited 2.A K DAS ASSOCIATES LIMITED 3.ABHISEK CONTECH INDIA PVT LTD 4.Associated Power Structures Pvt. Ltd. 5.Emphoria Works Pvt. Ltd. 6.MBH POWER PRIVATE LIMITED 7.empowertrans private limited",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Emphoria Works Pvt. Ltd. 3.MBH POWER PRIVATE LIMITED 4.empowertrans private limited",
+      "techDisqualified": null,
+      "costOpenDate": "2024-02-20",
+      "costQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Emphoria Works Pvt. Ltd. 3.MBH POWER PRIVATE LIMITED 4.empowertrans private limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 4,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 199,
       "tenderNo": "CPC-29/2024-25",
       "lineNo": "I",
       "name": "Procurement of Battery Charger Thyristor control suitable 220V, 350 AH, Vented Lead Acid Storage Battery",
@@ -2807,7 +3311,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 151,
+      "sl": 200,
       "tenderNo": "CPC-29/2025-26",
       "lineNo": "1",
       "name": "Consultancy Services for Forest clearance of following work. 1. 21.044 Hectares of forest land for construction of proposed 400_220kV Grid Sub Station at Basudevpur, Barbil, Keonjhar. 2. 11.137 Hectares or 27.52 Acre of forest land for construction of proposed 220_132_33 KV Grid Sub Station Koida at Mouza Sargigarh Tahasil Koida Dist Sundargarh.",
@@ -2835,7 +3339,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 152,
+      "sl": 201,
       "tenderNo": "CPC-29/2026-27",
       "lineNo": "1",
       "name": "Supply,Erection,Testing and Commissioning of Bus Protection system in PRP or HSRP and in compliant with IEC 61850 for different GSS of voltage level 400KV and 220KV with Panel",
@@ -2863,7 +3367,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 153,
+      "sl": 202,
+      "tenderNo": "CPC-30-2023-24",
+      "lineNo": "1",
+      "name": "Construction of 2x40 MVA, 220/33 KV Sub-Station at Hatabasta with SAS along with 220KV LILO Line from Existing 220kV Mendhasal-Bhanjanagar D/C Line having Line length- 5 Kms. approx, on Turnkey Contract Basis",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-12",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 526910689,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 5,
+      "status": "COST OPEN",
+      "qualified": 5,
+      "disqualified": 4,
+      "year": 2024,
+      "bidders": "1.AmaraRaja Infra Private Limited 2.A K DAS ASSOCIATES LIMITED 3.ABHISEK CONTECH INDIA PVT LTD 4.Groma Infrastructure Limited 5.MBH POWER PRIVATE LIMITED 6.SIDDHARTHA ENGINEERING LIMITED 7.empowertrans private limited 8.Suncity Urja Private Limited 9.Manipal Energy & Infratech Ltd",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.AmaraRaja Infra Private Limited 2.Groma Infrastructure Limited 3.MBH POWER PRIVATE LIMITED 4.empowertrans private limited 5.Suncity Urja Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2024-02-27",
+      "costQualified": "1.AmaraRaja Infra Private Limited 2.Groma Infrastructure Limited 3.MBH POWER PRIVATE LIMITED 4.empowertrans private limited 5.Suncity Urja Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 5,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 203,
       "tenderNo": "CPC-30/2024-25",
       "lineNo": "LOT-I",
       "name": "Procurement of 220kV SF6 Circuit Breaker",
@@ -2891,7 +3423,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 154,
+      "sl": 204,
       "tenderNo": "CPC-30/2024-25",
       "lineNo": "LOT-II",
       "name": "Procurement of 132KV CB",
@@ -2919,7 +3451,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 155,
+      "sl": 205,
       "tenderNo": "CPC-30/2024-25",
       "lineNo": "LOT-III",
       "name": "Procurement of 33 KV VCB",
@@ -2947,7 +3479,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 156,
+      "sl": 206,
       "tenderNo": "CPC-30/2025-26",
       "lineNo": "I",
       "name": "Construction of 132 kV, 3-phase, Double circuit Line from 132/33 KV GSS, Jaleswar to proposed RTSS at Jaleswar having Line Length-8.645 KMs along with one No. 132 kV feeder bay extension at 132/33 kV GSS, Jaleswar on Turnkey Contract Basis",
@@ -2975,7 +3507,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 157,
+      "sl": 207,
       "tenderNo": "CPC-30/2026-27",
       "lineNo": "LOT-I",
       "name": "Procurement of 03 nos 400KV SF6 CB",
@@ -3003,7 +3535,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 158,
+      "sl": 208,
       "tenderNo": "CPC-30/2026-27",
       "lineNo": "LOT-II",
       "name": "Procurement of 20nos 220KV SF6 CB",
@@ -3031,7 +3563,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 159,
+      "sl": 209,
       "tenderNo": "CPC-30/2026-27",
       "lineNo": "LOT-III",
       "name": "Procurement of 20 Nos 132kV SF6 CB",
@@ -3059,7 +3591,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 160,
+      "sl": 210,
       "tenderNo": "CPC-30/2026-27",
       "lineNo": "LOT-IV",
       "name": "Procurement of 127Nos 33kV VCB",
@@ -3087,7 +3619,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 161,
+      "sl": 211,
+      "tenderNo": "CPC-31/2023-24",
+      "lineNo": "1",
+      "name": "Construction of 2X20 MVA, 132/33kV Grid Sub-station at RAIGHAR with SAS and associated 132 KV LILO Line from existing 132kV Dabugaon-Umerkote DC Line",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-21",
+      "bidEnd": "2024-02-21",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 473983056,
+      "lastReceipt": "2024-02-21",
+      "nTenders": 5,
+      "status": "COST OPEN",
+      "qualified": 5,
+      "disqualified": 4,
+      "year": 2024,
+      "bidders": "1.Gurpreet Galvanising Private Limited 2.Oomkar Technical Services Private Limited 3.ABHISEK CONTECH INDIA PVT LTD 4.Associated Power Structures Pvt. Ltd. 5.Emphoria Works Pvt. Ltd. 6.Groma Infrastructure Limited 7.MBH POWER PRIVATE LIMITED 8.SIDDHARTHA ENGINEERING LIMITED 9.empowertrans private limited",
+      "techOpenDate": "2024-02-22",
+      "techQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Associated Power Structures Pvt. Ltd. 3.Groma Infrastructure Limited 4.MBH POWER PRIVATE LIMITED 5.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": "1.Gurpreet Galvanising Private Limited",
+      "costOpenDate": "2024-03-04",
+      "costQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Associated Power Structures Pvt. Ltd. 3.Groma Infrastructure Limited 4.MBH POWER PRIVATE LIMITED 5.SIDDHARTHA ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 5,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 212,
       "tenderNo": "CPC-31/2024-25",
       "lineNo": "1",
       "name": "Procurement of Numerical Distance protection relay.",
@@ -3115,7 +3675,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 162,
+      "sl": 213,
       "tenderNo": "CPC-31/2026-27",
       "lineNo": "LOT-I",
       "name": "Procurement of 680.453 KM ACSR Panther conductor",
@@ -3143,7 +3703,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 163,
+      "sl": 214,
       "tenderNo": "CPC-31/2026-27",
       "lineNo": "LOT-II",
       "name": "Procurement of 255.882 KM ACSR Zebra conductor",
@@ -3171,7 +3731,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 164,
+      "sl": 215,
       "tenderNo": "CPC-31/2026-27",
       "lineNo": "LOT-III",
       "name": "Procurement of 55.25 KM ACSR Moose and 03 KM Bersimis conductor",
@@ -3199,7 +3759,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 165,
+      "sl": 216,
+      "tenderNo": "CPC-32/2023-24",
+      "lineNo": "1",
+      "name": "Construction of 132kV SC line through UG cabling with one spare cable from 400/220/132/33kV GSS Mendhasal to 220/132/33kV GSS Chandaka with one no 132kV bay extension at both GSS.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-27",
+      "bidEnd": "2024-02-27",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 1155636740,
+      "lastReceipt": "2024-02-27",
+      "nTenders": 3,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.BNC Power Projects Ltd. 2.KEI Industries Limited 3.Sterlite Electric Limited 4.Universal Cables Limited 5.KEC International Limited 6.Rahul Cables Private Limited",
+      "techOpenDate": "2024-02-28",
+      "techQualified": "1.BNC Power Projects Ltd. 2.Universal Cables Limited 3.KEC International Limited",
+      "techDisqualified": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Rahul Cables Private Limited",
+      "costOpenDate": "2024-06-20",
+      "costQualified": "1.BNC Power Projects Ltd. 2.Universal Cables Limited 3.KEC International Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 217,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot I",
       "name": "Procurement of Three Stack PI for 400kV",
@@ -3227,7 +3815,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 166,
+      "sl": 218,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot II",
       "name": "Procurement of Single Stack PI for 33kV",
@@ -3255,7 +3843,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 167,
+      "sl": 219,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot III",
       "name": "Procurement of 220 KV 160 KN and 220 KV 90 KN Silicon Rubber Long Rod Insulator",
@@ -3283,7 +3871,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 168,
+      "sl": 220,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot IV",
       "name": "Procurement of 132 KV 120KN and 132 KV 90 KN Silicon Rubber Long Rod Insulator",
@@ -3311,7 +3899,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 169,
+      "sl": 221,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot V",
       "name": "Procurement of 400 KV 160KN and 400 KV 120 KN Porcelain Long Rod Insulator String",
@@ -3339,7 +3927,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 170,
+      "sl": 222,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot VI",
       "name": "Procurement of 220 KV 160KN and 220 KV 90 KN Porcelain Long Rod Insulator String",
@@ -3367,7 +3955,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 171,
+      "sl": 223,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot VII",
       "name": "Procurement of 132 KV 120KN and 132 KV 90KN Porcelain Long Rod Insulator String",
@@ -3395,7 +3983,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 172,
+      "sl": 224,
       "tenderNo": "CPC-32/2024-25",
       "lineNo": "Lot VIII",
       "name": "Procurement of 160 KN,120 KN and 90 KN Anti fog Porcelain Disc Insulator.",
@@ -3423,7 +4011,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 173,
+      "sl": 225,
       "tenderNo": "CPC-32/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of work towards up gradation 132kV 2-Phase SC line on DC tower of RTSS, Banspani into 3-Phase DC line alongwith construction of one no. of feeder bay extension and upgradation of existing 132kV Bay of RTSS, Banspani from 2-Phase to 3-Phase system at 220/132/33 kV GSS, Joda Line Length 2.915 KM Approx. for power supply to RTSS, Banspani in Keonjhar District of Odisha, on EPC contract basis",
@@ -3451,7 +4039,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 174,
+      "sl": 226,
       "tenderNo": "CPC-32/2026-27",
       "lineNo": "LOT I",
       "name": "Procurement of 400kV Composite Long Rod Insulator.",
@@ -3479,7 +4067,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 175,
+      "sl": 227,
       "tenderNo": "CPC-32/2026-27",
       "lineNo": "LOT II",
       "name": "Procurement of 220kV Composite Long Rod Insulator.",
@@ -3507,7 +4095,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 176,
+      "sl": 228,
       "tenderNo": "CPC-32/2026-27",
       "lineNo": "LOT III",
       "name": "Procurement of 132kV Composite Long Rod Insulator.",
@@ -3535,7 +4123,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 177,
+      "sl": 229,
+      "tenderNo": "CPC-33/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x20 MVA, 220/33 KV Grid S/S, Madanpur Rampur with 220 KV GIS System and 33 KV AIS System on Turnkey contract basis",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-11",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 550180478,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 3,
+      "status": "CANCELLED",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.MBH POWER PRIVATE LIMITED 2.SIDDHARTHA ENGINEERING LIMITED 3.Toshiba Transmission and Distribution Systems India Private Limited",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.MBH POWER PRIVATE LIMITED 2.SIDDHARTHA ENGINEERING LIMITED 3.Toshiba Transmission and Distribution Systems India Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 230,
       "tenderNo": "CPC-33/2025-26",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing and commissioning of 2 x 80 MVA, 132/33 KV Substation Manamunda with SAS _Process Bus Based and associated 132 KV LILO line on 132 KV Sonepur - Boudh line and 2nd Circuit Stringing of 132KV Sonepur-Boudh Circuit along with 132KV Feeder Bay at existing 132/33KV Grid SubStation Sonepur and at existing 132/33KV Grid Sub-Station Boudh on EPC contract basis.",
@@ -3563,7 +4179,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 178,
+      "sl": 231,
       "tenderNo": "CPC-33/2026-27",
       "lineNo": "LOT I",
       "name": "PROCUREMENT OF 400KV SURGE ARRESTERS.",
@@ -3591,7 +4207,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 179,
+      "sl": 232,
       "tenderNo": "CPC-33/2026-27",
       "lineNo": "LOT II",
       "name": "PROCUREMENT OF 220KV SURGE ARRESTERS.",
@@ -3619,7 +4235,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 180,
+      "sl": 233,
       "tenderNo": "CPC-33/2026-27",
       "lineNo": "LOT III",
       "name": "PROCUREMENT OF 132kV SURGE ARRESTERS.",
@@ -3647,7 +4263,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 181,
+      "sl": 234,
       "tenderNo": "CPC-33/2026-27",
       "lineNo": "LOT IV",
       "name": "PROCUREMENT OF 33kV SURGE ARRESTERS.",
@@ -3675,7 +4291,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 182,
+      "sl": 235,
+      "tenderNo": "CPC-34/2023-24",
+      "lineNo": "1",
+      "name": "2x40 MVA, 220/33 KV Sub-Station at Nuabetanda along with 220KV LILO Line from proposed 220kV Pratapsasan-Ersama Line having Line length - 11.6 Kms. approx. on Turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-12",
+      "purEnd": "2024-02-12",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 755161878,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.AmaraRaja Infra Private Limited 2.A K DAS ASSOCIATES LIMITED 3.Emphoria Works Pvt. Ltd. 4.Groma Infrastructure Limited 5.MBH POWER PRIVATE LIMITED 6.empowertrans private limited",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.AmaraRaja Infra Private Limited 2.A K DAS ASSOCIATES LIMITED 3.Groma Infrastructure Limited",
+      "techDisqualified": "1.Emphoria Works Pvt. Ltd. 2.MBH POWER PRIVATE LIMITED",
+      "costOpenDate": "2024-03-02",
+      "costQualified": "1.AmaraRaja Infra Private Limited 2.A K DAS ASSOCIATES LIMITED 3.Groma Infrastructure Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 236,
       "tenderNo": "CPC-34/2024-25",
       "lineNo": "Lot-I",
       "name": "Procurement of Outdoor mounted live tank, single phase, single unit type 400kV Current Transformers for protection and metering services in 33KV, 132KV, 220KV and 400kV system.",
@@ -3703,7 +4347,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 183,
+      "sl": 237,
       "tenderNo": "CPC-34/2024-25",
       "lineNo": "Lot-II",
       "name": "Procurement of Outdoor mounted live tank, single phase, single unit type 220kV Current Transformers for protection and metering services in 33KV, 132KV, 220KV and 400kV system",
@@ -3731,7 +4375,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 184,
+      "sl": 238,
       "tenderNo": "CPC-34/2024-25",
       "lineNo": "Lot-III",
       "name": "Procurement of Outdoor mounted live tank, single phase, single unit type 132kV Current Transformers for protection and metering services in 33KV, 132KV, 220KV and 400kV system",
@@ -3759,7 +4403,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 185,
+      "sl": 239,
       "tenderNo": "CPC-34/2024-25",
       "lineNo": "Lot-IV",
       "name": "Procurement of Outdoor mounted live tank, single phase, single unit type 33kV Current Transformers for protection and metering services in 33KV, 132KV, 220KV and 400kV system.",
@@ -3787,7 +4431,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 186,
+      "sl": 240,
       "tenderNo": "CPC-34/2025-26",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in existing 220 KV Budhipadar-Lapanga DC line after dismantling of ACSR Zebra Conductor from Loc. No-1 to 63.",
@@ -3815,7 +4459,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 187,
+      "sl": 241,
       "tenderNo": "CPC-34/2026-27",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x100 MVA, 220/33KV, 220kV GIS and 33kV AIS, GSS at Pahala along with 220 KV T/L from existing 220/132/33KV GIS at Balianta and construction of 02 numbers of Bay extension at Balianta GIS on Turnkey contract basis.",
@@ -3843,7 +4487,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 188,
+      "sl": 242,
+      "tenderNo": "CPC-35/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x40 MVA, 220/33 KV Sub-Station with SAS at Khallikote along with 220 KV LILO line from one ckt of existing 220KV Narendrapur-Atri DC line to proposed 220/33Kv GSS, Khallikote on turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-13",
+      "bidEnd": "2024-02-13",
+      "tenderType": "Open",
+      "pubDate": "2024-01-12",
+      "estCost": 444078801,
+      "lastReceipt": "2024-02-13",
+      "nTenders": 5,
+      "status": "COST OPEN",
+      "qualified": 5,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.ABHISEK CONTECH INDIA PVT LTD 2.Groma Infrastructure Limited 3.MBH POWER PRIVATE LIMITED 4.SIDDHARTHA ENGINEERING LIMITED 5.empowertrans private limited 6.Suncity Urja Private Limited 7.Manipal Energy & Infratech Ltd",
+      "techOpenDate": "2024-02-15",
+      "techQualified": "1.Groma Infrastructure Limited 2.MBH POWER PRIVATE LIMITED 3.SIDDHARTHA ENGINEERING LIMITED 4.empowertrans private limited 5.Manipal Energy & Infratech Ltd",
+      "techDisqualified": "1.ABHISEK CONTECH INDIA PVT LTD",
+      "costOpenDate": "2024-02-27",
+      "costQualified": "1.Groma Infrastructure Limited 2.MBH POWER PRIVATE LIMITED 3.SIDDHARTHA ENGINEERING LIMITED 4.empowertrans private limited 5.Manipal Energy & Infratech Ltd",
+      "costDisqualified": null,
+      "costQualifiedCount": 5,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 243,
       "tenderNo": "CPC-35/2024-25",
       "lineNo": "Lot I",
       "name": "PROCUREMENT OF 33kV ISOLATORS.",
@@ -3871,7 +4543,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 189,
+      "sl": 244,
       "tenderNo": "CPC-35/2024-25",
       "lineNo": "Lot II",
       "name": "PROCUREMENT OF 132kV ISOLATORS.",
@@ -3899,7 +4571,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 190,
+      "sl": 245,
       "tenderNo": "CPC-35/2024-25",
       "lineNo": "Lot III",
       "name": "PROCUREMENT OF 220kV ISOLATORS.",
@@ -3927,7 +4599,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 191,
+      "sl": 246,
       "tenderNo": "CPC-35/2024-25",
       "lineNo": "Lot IV",
       "name": "PROCUREMENT OF 400kV ISOLATORS",
@@ -3955,7 +4627,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 192,
+      "sl": 247,
       "tenderNo": "CPC-35/2025-26",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in existing 220 KV Lapanga-Katapali DC line after dismantling of ACSR Zebra Conductor from Loc. No-1 to 201 in Jharsuguda District.",
@@ -3983,7 +4655,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 193,
+      "sl": 248,
+      "tenderNo": "CPC-36/2023-24",
+      "lineNo": "1",
+      "name": "Construction of 132kV SC line through UG cabling with one spare cable from 220/132/33kV GSS Narendrapur to 132/33kV GSS Berhampur with one no 132kV bay extension at both GSS.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-28",
+      "bidEnd": "2024-02-28",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 817699146,
+      "lastReceipt": "2024-02-28",
+      "nTenders": 5,
+      "status": "COST OPEN",
+      "qualified": 4,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.BNC Power Projects Ltd. 2.KEI Industries Limited 3.Sterlite Electric Limited 4.Universal Cables Limited 5.KEC International Limited 6.Rahul Cables Private Limited",
+      "techOpenDate": "2024-02-29",
+      "techQualified": "1.BNC Power Projects Ltd. 2.KEI Industries Limited 3.Sterlite Electric Limited 4.Universal Cables Limited 5.KEC International Limited",
+      "techDisqualified": "1.Rahul Cables Private Limited",
+      "costOpenDate": "2024-05-22",
+      "costQualified": "1.BNC Power Projects Ltd. 2.KEI Industries Limited 3.Sterlite Electric Limited 4.Universal Cables Limited 5.KEC International Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 5,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 249,
       "tenderNo": "CPC-36/2024-25",
       "lineNo": "LOT I",
       "name": "Procurement OF 41 Nos of 250 KVA, 33/0.433 KV Station Transformer BIS ENERGY LEVEL 2.",
@@ -4011,7 +4711,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 194,
+      "sl": 250,
       "tenderNo": "CPC-36/2024-25",
       "lineNo": "LOT II",
       "name": "Procurement of 10 Nos of 500 KVA,33/0.433 KV Station Transformer BIS ENERGY LEVEL 2.",
@@ -4039,7 +4739,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 195,
+      "sl": 251,
       "tenderNo": "CPC-36/2024-25",
       "lineNo": "LOT III",
       "name": "Procurement of 01 No of 1000 KVA,33/0.433 KV Station Transformer BIS ENERGY LEVEL 2.",
@@ -4067,7 +4767,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 196,
+      "sl": 252,
       "tenderNo": "CPC-36/2025-26",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing and Commissioning of twin High Temperature Low Sag Conductor after dismantling of twin AAAC Moose Conductor in existing 400 KV IB _ Lapanga DC along with up gradation in main and tie bay of IB circuit at Lapanga Grid Substation on turnkey contract basis in Sambalpur District.",
@@ -4095,7 +4795,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 197,
+      "sl": 253,
       "tenderNo": "CPC-36/2026-27",
       "lineNo": "1",
       "name": "Engineering, Supply, Installation and Testing and Commissioning works for Construction of 132kV SC Line through UG cable from 220/132/33kV GSS Samagara to 132/33kV GSS Samuka in Puri with one number of 132kV Bay extension at Both ends, Samangara and Samuka on Turnkey Contract Basis",
@@ -4123,7 +4823,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 198,
+      "sl": 254,
+      "tenderNo": "CPC-37/2023-24",
+      "lineNo": "1",
+      "name": "Supply of 20 MVA, 132/33 KV Power Transformer",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-12",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 474347315,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.Atlanta Electricals Ltd 2.ECE Industries Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2024-02-23",
+      "costQualified": "1.Atlanta Electricals Ltd 2.ECE Industries Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 255,
       "tenderNo": "CPC-37/2024-25",
       "lineNo": "I",
       "name": "Engineering, Supply, Erection, Testing and commissioning of Additional 2nd Bay 220KV at PARADEEP Grid substation and stringing of balance 2nd Circuit of 220KV line of 150MVA to IOCL premises at Paradeep",
@@ -4151,7 +4879,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 199,
+      "sl": 256,
       "tenderNo": "CPC-37/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning works for construction of 2 nos. 400 kV bay extension at 400/200/132/33 KV GSS, Lapanga for connectivity of 400 KV D/C Quad line from proposed NTTPP, NLC, Talabira to 400/220/132/33 KV Grid Sub-Station, Lapanga on Turnkey Contract Basis.",
@@ -4179,7 +4907,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 200,
+      "sl": 257,
       "tenderNo": "CPC-37/2026-27",
       "lineNo": "1",
       "name": "Engineering, Supply, Installation and Testing and Commissioning works for Construction of 132kV SC Line through UG cable from 220/132/33kV GSS Narendrapur to 132/33kV GSS Chhatrapur with one number of 132kV Bay extension at Both ends, Narendrapur and Chhatrapur on Turnkey Contract Basis",
@@ -4207,7 +4935,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 201,
+      "sl": 258,
       "tenderNo": "CPC-38/2024-25",
       "lineNo": "1",
       "name": "Engineering, Supply, Erection, Testing And Commissioning of 2nd Circuit Stringing of the 132kV Kendrapara Pattamundai line on existing DC Tower including construction of 17 nos. of Interposing Towers with bay extension work at 132/33kV Gird S/s, Kendrapara And Pattamundai ends Line Length of 21KM On EPC contract basis.",
@@ -4235,7 +4963,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 202,
+      "sl": 259,
       "tenderNo": "CPC-38/2026-27",
       "lineNo": "1",
       "name": "Engineering, Supply, Installation and Testing and Commissioning works for Construction of 132kV SC Line through UG cable from 220/132/33kV GSS Balasore to 132/33kV GSS Chandipur with one number of 132kV Bay extension at Both ends, Balasore and Chandipur on Turnkey Contract Basis.",
@@ -4263,7 +4991,63 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 203,
+      "sl": 260,
+      "tenderNo": "CPC-38/203-24",
+      "lineNo": "1",
+      "name": "Supply of 63 MVA, 132/33 KV Power Transformer",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-13",
+      "bidEnd": "2024-02-13",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 227215962,
+      "lastReceipt": "2024-02-13",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.BHARAT BIJLEE LIMITED 4.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
+      "techOpenDate": "2024-02-15",
+      "techQualified": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.BHARAT BIJLEE LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-02-23",
+      "costQualified": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.BHARAT BIJLEE LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 261,
+      "tenderNo": "CPC-39/2023-24",
+      "lineNo": "1",
+      "name": "Supply of 40 MVA, 220/33 KV Power Transformer",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-13",
+      "bidEnd": "2024-02-13",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 1386370200,
+      "lastReceipt": "2024-02-13",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.Technical Associates limited 2.Atlanta Electricals Ltd 3.ECE Industries Limited 4.BHARAT BIJLEE LIMITED 5.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
+      "techOpenDate": "2024-02-15",
+      "techQualified": "1.Atlanta Electricals Ltd 2.BHARAT BIJLEE LIMITED",
+      "techDisqualified": "1.Technical Associates limited",
+      "costOpenDate": "2024-03-07",
+      "costQualified": "1.Atlanta Electricals Ltd 2.BHARAT BIJLEE LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 262,
       "tenderNo": "CPC-39/2024-25",
       "lineNo": "1",
       "name": "Supply of hot dip Galvanized steel structure material and HDG Nut and bolts for 400KV 220KV 132KV Transmission Line towers and Sub Stations equipment structures as per OPTCL design.",
@@ -4291,7 +5075,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 204,
+      "sl": 263,
       "tenderNo": "CPC-39/2025-26",
       "lineNo": "1",
       "name": "Construction of 220kV SC line through Underground Cable with one spare cable from 400/220/132/33kV GSS Mendhasal to 220/132/33kV GIS GSS Chandaka-B along with 01 number of 220kV AIS bay extension at GSS Mendhasal and 01 number of 220kV GIS bay extension at Chandaka-B on Turnkey Contract Basis.",
@@ -4319,7 +5103,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 205,
+      "sl": 264,
       "tenderNo": "CPC-39/2026-27",
       "lineNo": "1",
       "name": "Procurement of 265KL Napthalene based EHV grade transformer oil",
@@ -4347,7 +5131,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 206,
+      "sl": 265,
+      "tenderNo": "CPC-40/2023-24",
+      "lineNo": "1",
+      "name": "Supply of 40 MVA, 132/33 KV Power Transformer",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-02-12",
+      "bidEnd": "2024-02-12",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 480551841,
+      "lastReceipt": "2024-02-12",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.BHARAT BIJLEE LIMITED 4.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
+      "techOpenDate": "2024-02-13",
+      "techQualified": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.BHARAT BIJLEE LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-02-23",
+      "costQualified": "1.Atlanta Electricals Ltd 2.ECE Industries Limited 3.BHARAT BIJLEE LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 266,
       "tenderNo": "CPC-40/2024-25",
       "lineNo": "1",
       "name": "Biennial Procurement of 95nos SF6 Gas Cylinder of 50KG capacity for the FY 2024 25 and 2025 26",
@@ -4375,7 +5187,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 207,
+      "sl": 267,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 1",
       "name": "PROCUREMENT OF TRANSFORMER TURNS RATIO TEST KIT",
@@ -4403,7 +5215,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 208,
+      "sl": 268,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 10",
       "name": "PROCUREMENT OF CT AND PT ANALYSER",
@@ -4431,7 +5243,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 209,
+      "sl": 269,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 11",
       "name": "PROCUREMENT OF CAPACITANCE AND TAN DELTA TEST KIT - 12KV with variable tan delta.",
@@ -4459,7 +5271,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 210,
+      "sl": 270,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 12",
       "name": "PROCUREMENT OF DIGITAL INSULATION TESTER Insulation Resistance Meter 10kV.",
@@ -4487,7 +5299,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 211,
+      "sl": 271,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 13",
       "name": "PROCUREMENT OF DIGITAL EARTH TESTER / EARTH RESISTANCE METER",
@@ -4515,7 +5327,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 212,
+      "sl": 272,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 14",
       "name": "PROCUREMENT OF 3RD HARMONIC LEAKAGE DETECTOR",
@@ -4543,7 +5355,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 213,
+      "sl": 273,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 15",
       "name": "PROCUREMENT OF HIGH END THERMOVISION CAMERA",
@@ -4571,7 +5383,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 214,
+      "sl": 274,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 16",
       "name": "PROCUREMENT OF DC EARTH LEAKAGE CURRENT METER / TESTER.",
@@ -4599,7 +5411,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 215,
+      "sl": 275,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 17",
       "name": "PROCUREMENT OF DC CLAMP METER Ma-A Range.",
@@ -4627,7 +5439,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 216,
+      "sl": 276,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 18",
       "name": "PROCUREMENT OF AC CLAMP METER Micro Ampere to Ampere.",
@@ -4655,7 +5467,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 217,
+      "sl": 277,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 19",
       "name": "PROCUREMENT OF AUTOMATIC OIL BDV MEASUREMENT TEST KIT.",
@@ -4683,7 +5495,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 218,
+      "sl": 278,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 2",
       "name": "PROCUREMENT OF TRANSFORMER WINDING RESISTANCE MEASUREMENT TEST KIT",
@@ -4711,7 +5523,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 219,
+      "sl": 279,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 20",
       "name": "PROCUREMENT OF MOISTURE CONTENT TEST KIT",
@@ -4739,7 +5551,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 220,
+      "sl": 280,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 21",
       "name": "PROCUREMENT OF OIL TAN DELTA AND OIL RESISTIVITY TEST KIT",
@@ -4767,7 +5579,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 221,
+      "sl": 281,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 22",
       "name": "PROCUREMENT OF TOWER FOOTING IMPEDANCE MEASURING KIT WITH LEAKAGE CURRENT MEASUREMENT",
@@ -4795,7 +5607,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 222,
+      "sl": 282,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 23",
       "name": "PROCUREMENT OF BATTERY ANALYSER",
@@ -4823,7 +5635,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 223,
+      "sl": 283,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 24",
       "name": "PROCUREMENT OF LEAKY INSULATOR DETECTOR",
@@ -4851,7 +5663,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 224,
+      "sl": 284,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 25",
       "name": "PROCUREMENT OF HAND HELD MICRO OHM METER 200A, Weight LESS THAN 1KG.",
@@ -4879,7 +5691,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 225,
+      "sl": 285,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 3",
       "name": "PROCUREMENT OF DIELECTRIC FREQUENCY RESPONSE ANALYSER KIT",
@@ -4907,7 +5719,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 226,
+      "sl": 286,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 4",
       "name": "PROCUREMENT OF SWEEP FREQUENCY RESPONSE ANALYSER",
@@ -4935,7 +5747,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 227,
+      "sl": 287,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 5",
       "name": "PROCUREMENT OF CIRCUIT BREAKER TIME INTERVAL METER / CB TIMER",
@@ -4963,7 +5775,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 228,
+      "sl": 288,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 6",
       "name": "PROCUREMENT OF DYNAMIC CONTACT RESISTANCE MEASUREMENT FOR CB",
@@ -4991,7 +5803,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 229,
+      "sl": 289,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 7",
       "name": "PROCUREMENT OF CONTACT RESISTANCE MEASUREMENT KIT 200A FOR CB",
@@ -5019,7 +5831,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 230,
+      "sl": 290,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 8",
       "name": "PROCUREMENT OF UNIVERSAL RELAY TESTING KIT",
@@ -5047,7 +5859,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 231,
+      "sl": 291,
       "tenderNo": "CPC-40/2025-26",
       "lineNo": "LOT 9",
       "name": "PROCUREMENT OF PRIMARY CURRENT INJECTION KIT 1000A",
@@ -5075,7 +5887,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 232,
+      "sl": 292,
       "tenderNo": "CPC-40/2026-27",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor after dismantling of twin AAAC Moose Conductor in existing 400 KV Meramundali Mendhasal DC Line along with up gradation of equipment and Bus at respective Grid Sub station ends",
@@ -5103,7 +5915,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 233,
+      "sl": 293,
+      "tenderNo": "CPC-41/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x500 MVA, 2 x 63 MVA, 400/220/33 KV Grid sub-station at Neulpoi, Dhenkanal with associated 400 KV DC LILO line from existing 400 KV Meramundali-New Duburi DC line to proposed Grid sub-station at Neulpoi and 400 KV DC LILO line from existing 400 KV Meramundali-Mendhasal DC line to proposed Grid sub-station at Neulpoi on EPC contract basis",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-03-01",
+      "bidEnd": "2024-03-02",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 3862297193,
+      "lastReceipt": "2024-03-02",
+      "nTenders": 4,
+      "status": "COST OPEN",
+      "qualified": 4,
+      "disqualified": 6,
+      "year": 2024,
+      "bidders": "1.AmaraRaja Infra Private Limited 2.BNC Power Projects Ltd. 3.A K DAS ASSOCIATES LIMITED 4.Associated Power Structures Pvt. Ltd. 5.Groma Infrastructure Limited 6.KEC International Limited 7.R S Infraprojects Pvt. Ltd. 8.SIDDHARTHA ENGINEERING LIMITED 9.Techno Electrical and Engineering Co. Ltd 10.Transrail Lighting Limited",
+      "techOpenDate": "2024-03-04",
+      "techQualified": "1.AmaraRaja Infra Private Limited 2.Associated Power Structures Pvt. Ltd. 3.Groma Infrastructure Limited 4.R S Infraprojects Pvt. Ltd.",
+      "techDisqualified": null,
+      "costOpenDate": "2024-09-26",
+      "costQualified": "1.AmaraRaja Infra Private Limited 2.Associated Power Structures Pvt. Ltd. 3.Groma Infrastructure Limited 4.R S Infraprojects Pvt. Ltd.",
+      "costDisqualified": null,
+      "costQualifiedCount": 4,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 294,
       "tenderNo": "CPC-41/2024-25",
       "lineNo": "LOT-I",
       "name": "PROCUREMENT OF 400kV SURGE ARRESTERS",
@@ -5131,7 +5971,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 234,
+      "sl": 295,
       "tenderNo": "CPC-41/2024-25",
       "lineNo": "LOT-II",
       "name": "PROCUREMENT OF 220kV SURGE ARRESTER",
@@ -5159,7 +5999,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 235,
+      "sl": 296,
       "tenderNo": "CPC-41/2024-25",
       "lineNo": "LOT-III",
       "name": "PROCUREMENT OF 132KV SURGE ARRESTER",
@@ -5187,7 +6027,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 236,
+      "sl": 297,
       "tenderNo": "CPC-41/2024-25",
       "lineNo": "LOT-IV",
       "name": "PROCUREMENT OF 33KV SURGE ARRESTER",
@@ -5215,7 +6055,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 237,
+      "sl": 298,
       "tenderNo": "CPC-41/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and commissioning of i- 2X500 MVA,400/220KV AIS Sub Station with SAS at Basudevpur with associated ii- 400 KV D/C LILO LINE from 400KV Kaniha-Bisra D/C line CKT-I and II to proposed 400/220KV GSS at Basudevpur, iii- 220KV LILO in D/C from TTPS-Joda line to proposed S/s at Basudevpur, iv- 220KV D/Cline from 220/132/33KV GSS, Turumunga to proposed 400/220KV Grid S/s at Basudevpur with 2nos. 220kV Bay Extension at Turumunga on EPC Contract basis.",
@@ -5243,7 +6083,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 238,
+      "sl": 299,
       "tenderNo": "CPC-41/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of work towards Shifting of 3nos. Of 400 kV towers and thereafter construction of 3 nos. of new 400kV towers in 400kV Indravati Power house - PGCIL Indravati SC Line Length-1KM Approx. from the proposed lower reservoir site of Upper Indravati PSP. SCOPE- 3 NOS TOWERS DC3 - 1NO,DC6-1NO,DD3-1NO in the State of Odisha, on EPC contract basis.",
@@ -5271,7 +6111,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 239,
+      "sl": 300,
+      "tenderNo": "CPC-42/2023-24",
+      "lineNo": "1",
+      "name": "Supply of 500 MVA, 400/220 KV ICT",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-01-13",
+      "purEnd": "2024-03-06",
+      "bidEnd": "2024-03-06",
+      "tenderType": "Open",
+      "pubDate": "2024-01-13",
+      "estCost": 1947339840,
+      "lastReceipt": "2024-03-06",
+      "nTenders": 1,
+      "status": "COST OPEN",
+      "qualified": 1,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.HITACHI ENERGY INDIA LIMITED 2.BHEL 3.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
+      "techOpenDate": "2024-03-06",
+      "techQualified": "1.BHEL",
+      "techDisqualified": null,
+      "costOpenDate": "2024-03-14",
+      "costQualified": "1.BHEL",
+      "costDisqualified": null,
+      "costQualifiedCount": 1,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 301,
       "tenderNo": "CPC-42/2024-25",
       "lineNo": "LOT-I",
       "name": "Procurement of 1413.69KM ACSR Panther conductor",
@@ -5299,7 +6167,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 240,
+      "sl": 302,
       "tenderNo": "CPC-42/2024-25",
       "lineNo": "LOT-II",
       "name": "Procurement of 21.915 KM of ACSR Zebra Conductor",
@@ -5327,7 +6195,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 241,
+      "sl": 303,
       "tenderNo": "CPC-42/2024-25",
       "lineNo": "LOT-III",
       "name": "Procurement of 68.245 KM ACSR Moose conductor",
@@ -5355,7 +6223,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 242,
+      "sl": 304,
       "tenderNo": "CPC-42/2024-25",
       "lineNo": "LOT-IV",
       "name": "Procurement of 27.5 KM GI Earth wire",
@@ -5383,7 +6251,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 243,
+      "sl": 305,
       "tenderNo": "CPC-42/2026-27",
       "lineNo": "1",
       "name": "E-Tender towards procurement of Hardware Fittings and accessories for various conductor as per triennial procurement plan of O and M materials for the FY 2026-27.",
@@ -5411,7 +6279,175 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 244,
+      "sl": 306,
+      "tenderNo": "CPC-43/2023-24",
+      "lineNo": "LOT-I",
+      "name": "Repair of 40MVA, 132/33KV Power Transformers",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-02-22",
+      "purEnd": "2024-06-19",
+      "bidEnd": "2024-06-19",
+      "tenderType": "Open",
+      "pubDate": "2024-02-22",
+      "estCost": 25200000,
+      "lastReceipt": "2024-06-19",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ARCHIT ELECTRICALS PRIVATE LIMITED 3.Mahati Industries Private Limited",
+      "techOpenDate": "2024-06-20",
+      "techQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "techDisqualified": "1.ARCHIT ELECTRICALS PRIVATE LIMITED",
+      "costOpenDate": "2025-02-13",
+      "costQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 307,
+      "tenderNo": "CPC-43/2023-24",
+      "lineNo": "LOT-II",
+      "name": "Repairing of 40MVA, 132/33KV Power Transformers",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-02-22",
+      "purEnd": "2024-06-19",
+      "bidEnd": "2024-06-19",
+      "tenderType": "Open",
+      "pubDate": "2024-02-22",
+      "estCost": 25200000,
+      "lastReceipt": "2024-06-19",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ARCHIT ELECTRICALS PRIVATE LIMITED 3.Mahati Industries Private Limited 4.K K Rao Engineering Works Pvt Ltd",
+      "techOpenDate": "2024-06-20",
+      "techQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "techDisqualified": "1.ARCHIT ELECTRICALS PRIVATE LIMITED 2.K K Rao Engineering Works Pvt Ltd",
+      "costOpenDate": "2025-02-13",
+      "costQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 308,
+      "tenderNo": "CPC-43/2023-24",
+      "lineNo": "LOT-III",
+      "name": "Repairing of 40MVA, 220/33KV Power Transformers",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-02-22",
+      "purEnd": "2024-06-19",
+      "bidEnd": "2024-06-19",
+      "tenderType": "Open",
+      "pubDate": "2024-02-22",
+      "estCost": 28900000,
+      "lastReceipt": "2024-06-19",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ARCHIT ELECTRICALS PRIVATE LIMITED 3.ECE Industries Limited 4.Mahati Industries Private Limited",
+      "techOpenDate": "2024-06-20",
+      "techQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ECE Industries Limited 3.Mahati Industries Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2025-02-13",
+      "costQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ECE Industries Limited 3.Mahati Industries Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 309,
+      "tenderNo": "CPC-43/2023-24",
+      "lineNo": "LOT-IV",
+      "name": "Repairing of 20MVA, 220/33KV Power Transformers",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-02-22",
+      "purEnd": "2024-06-19",
+      "bidEnd": "2024-06-19",
+      "tenderType": "Open",
+      "pubDate": "2024-02-22",
+      "estCost": 19500000,
+      "lastReceipt": "2024-06-19",
+      "nTenders": 2,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "techOpenDate": "2024-06-20",
+      "techQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2025-02-13",
+      "costQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 310,
+      "tenderNo": "CPC-43/2023-24",
+      "lineNo": "LOT-V",
+      "name": "Repairing of 20MVA, 220/33KV Power Transformers",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-02-22",
+      "purEnd": "2024-06-19",
+      "bidEnd": "2024-06-19",
+      "tenderType": "Open",
+      "pubDate": "2024-02-22",
+      "estCost": 19500000,
+      "lastReceipt": "2024-06-19",
+      "nTenders": 2,
+      "status": "CANCELLED",
+      "qualified": 2,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ARCHIT ELECTRICALS PRIVATE LIMITED 3.Mahati Industries Private Limited",
+      "techOpenDate": "2024-06-20",
+      "techQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "techDisqualified": "1.ARCHIT ELECTRICALS PRIVATE LIMITED",
+      "costOpenDate": "2025-02-13",
+      "costQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.Mahati Industries Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 311,
+      "tenderNo": "CPC-43/2023-24",
+      "lineNo": "LOT-VI",
+      "name": "Repairing of 160MVA 220/132kV Auto Transformers",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-02-22",
+      "purEnd": "2024-06-19",
+      "bidEnd": "2024-06-19",
+      "tenderType": "Open",
+      "pubDate": "2024-02-22",
+      "estCost": 73150000,
+      "lastReceipt": "2024-06-19",
+      "nTenders": 3,
+      "status": "CANCELLED",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ECE Industries Limited 3.Mahati Industries Private Limited",
+      "techOpenDate": "2024-06-20",
+      "techQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ECE Industries Limited 3.Mahati Industries Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2025-02-13",
+      "costQualified": "1.SHREE ABIRAMI ENGGINEERING WORKS 2.ECE Industries Limited 3.Mahati Industries Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 312,
       "tenderNo": "CPC-43/2024-25",
       "lineNo": "1",
       "name": "Survey and Forest clearance work of 400kV DC line connectivity between Indravati to Therubali for development of Green Energy Evacuation Transmission corridor for evacuation of RE power.",
@@ -5439,7 +6475,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 245,
+      "sl": 313,
       "tenderNo": "CPC-43/2025-26",
       "lineNo": "1",
       "name": "Procurement of 90KN and 120KN Anti fog Disc Insulator.",
@@ -5467,7 +6503,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 246,
+      "sl": 314,
       "tenderNo": "CPC-43/2026-27",
       "lineNo": "1",
       "name": "Supply Erection Testing and Commissioning of 33KV SAS PANEL for existing different Grid substation of OPTCL",
@@ -5495,7 +6531,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 247,
+      "sl": 315,
+      "tenderNo": "CPC-44/2023-24",
+      "lineNo": "I",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x40 MVA, 220/33 KV Gas Insulated Sub-Station at PARADEEP for Plastic Park and associated 220KV LILO Line from existing 220kV Paradeep_IOCL D/C Line to proposed Substation in Odisha State on Turnkey Contract Basis",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-05-22",
+      "bidEnd": "2024-05-22",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 865176348,
+      "lastReceipt": "2024-05-22",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 4,
+      "year": 2024,
+      "bidders": "1.Bajel Projects Limited 2.A K DAS ASSOCIATES LIMITED 3.MBH POWER PRIVATE LIMITED 4.R S Infraprojects Pvt. Ltd. 5.SIDDHARTHA ENGINEERING LIMITED 6.STELMEC LIMITED 7.Toshiba Transmission and Distribution Systems India Private Limited",
+      "techOpenDate": "2024-05-24",
+      "techQualified": "1.A K DAS ASSOCIATES LIMITED 2.MBH POWER PRIVATE LIMITED 3.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-09-26",
+      "costQualified": "1.A K DAS ASSOCIATES LIMITED 2.MBH POWER PRIVATE LIMITED 3.SIDDHARTHA ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 316,
       "tenderNo": "CPC-44/2025-26",
       "lineNo": "1",
       "name": "Engineering, Supply,Erection, Testing and Commissioning for _Conversion of existing 03 Nos Conventional Grid Substation at Cuttack, Bhanjnagar and Thiruvali into SAS enabled Substation through installation of Kiosk Based Automation System and provision of switchyard equipment for one No. incomplete tie bay at Thiruvali GSS in Odisha State of India.",
@@ -5523,7 +6587,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 248,
+      "sl": 317,
       "tenderNo": "CPC-44/2026-27",
       "lineNo": "LOT-I",
       "name": "Procurement of 220kV Porcelain Long Rod Insulator",
@@ -5551,7 +6615,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 249,
+      "sl": 318,
       "tenderNo": "CPC-44/2026-27",
       "lineNo": "LOT-II",
       "name": "Procurement of 132kV Porcelain Long Rod Insulator",
@@ -5579,7 +6643,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 250,
+      "sl": 319,
+      "tenderNo": "CPC-45/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x40 MVA, 220/33KV Grid Sub station with SAS at MUNDAMBA and associated 220 KV LILO Transmission line from existing 220KV Atri Narendrapur DC line, Ckt II to proposed 220/33KV Sub station at Mundamba, Khurda on EPC contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-05-06",
+      "bidEnd": "2024-05-07",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 557514052,
+      "lastReceipt": "2024-05-07",
+      "nTenders": 6,
+      "status": "COST OPEN",
+      "qualified": 6,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.AmaraRaja Infra Private Limited 2.Gurpreet Galvanising Private Limited 3.Emphoria Works Pvt. Ltd. 4.Groma Infrastructure Limited 5.MBH POWER PRIVATE LIMITED 6.SIDDHARTHA ENGINEERING LIMITED 7.SALASAR TECHNO ENGINEERING LIMITED 8.Manipal Energy & Infratech Ltd",
+      "techOpenDate": "2024-05-08",
+      "techQualified": "1.AmaraRaja Infra Private Limited 2.Emphoria Works Pvt. Ltd. 3.Groma Infrastructure Limited 4.MBH POWER PRIVATE LIMITED 5.SIDDHARTHA ENGINEERING LIMITED 6.SALASAR TECHNO ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-07-31",
+      "costQualified": "1.AmaraRaja Infra Private Limited 2.Emphoria Works Pvt. Ltd. 3.Groma Infrastructure Limited 4.MBH POWER PRIVATE LIMITED 5.SIDDHARTHA ENGINEERING LIMITED 6.SALASAR TECHNO ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 6,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 320,
       "tenderNo": "CPC-45/2025-26",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in 132kV Katapali Bargarh SC line and 132kV Thuapali DC LILO line after dismantling of ACSR Panther Conductor on turnkey contract basis in Baragarh District",
@@ -5607,7 +6699,63 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 251,
+      "sl": 321,
+      "tenderNo": "CPC-46/2023-24",
+      "lineNo": "I",
+      "name": "Supply and Erection and Commissioning of 48 Volt VRLA Battery",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-03-15",
+      "purEnd": "2024-05-13",
+      "bidEnd": "2024-05-14",
+      "tenderType": "Open",
+      "pubDate": "2024-03-15",
+      "estCost": 24202200,
+      "lastReceipt": "2024-05-14",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.Exide Industries Limited 2.Amara Raja Energy & Mobility Limited 3.NED ENERGY LIMITED",
+      "techOpenDate": "2024-05-15",
+      "techQualified": "1.Exide Industries Limited 2.Amara Raja Energy & Mobility Limited 3.NED ENERGY LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-10-07",
+      "costQualified": "1.Exide Industries Limited 2.Amara Raja Energy & Mobility Limited 3.NED ENERGY LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 322,
+      "tenderNo": "CPC-46/2023-24",
+      "lineNo": "II",
+      "name": "Supply, erection and commissioning alongwith Comprehensive AMC of SMPS based 48 Volt Battery Charger",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-03-15",
+      "purEnd": "2024-05-18",
+      "bidEnd": "2024-05-20",
+      "tenderType": "Open",
+      "pubDate": "2024-03-15",
+      "estCost": 41242797,
+      "lastReceipt": "2024-05-20",
+      "nTenders": 4,
+      "status": "COST OPEN",
+      "qualified": 4,
+      "disqualified": 3,
+      "year": 2024,
+      "bidders": "1.Delta Electronics India Private Limited 2.NRUTHYA GANAPATHI ENGINEERS 3.STATCON ENERGIAA PRIVATE LIMITED 4.Exide Industries Limited 5.VERTIV ENERGY PRIVATE LIMITED 6.EXICOM TELE-SYSTEMS LIMITED 7.NED ENERGY LIMITED",
+      "techOpenDate": "2024-05-21",
+      "techQualified": "1.Delta Electronics India Private Limited 2.STATCON ENERGIAA PRIVATE LIMITED 3.VERTIV ENERGY PRIVATE LIMITED 4.EXICOM TELE-SYSTEMS LIMITED",
+      "techDisqualified": "1.NRUTHYA GANAPATHI ENGINEERS 2.Exide Industries Limited 3.NED ENERGY LIMITED",
+      "costOpenDate": "2024-10-07",
+      "costQualified": "1.Delta Electronics India Private Limited 2.STATCON ENERGIAA PRIVATE LIMITED 3.VERTIV ENERGY PRIVATE LIMITED 4.EXICOM TELE-SYSTEMS LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 4,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 323,
       "tenderNo": "CPC-46/2026-27",
       "lineNo": "Lot-1",
       "name": "Tender for providing Group Health Insurance Policy 2026-27 to OPTCL",
@@ -5635,7 +6783,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 252,
+      "sl": 324,
       "tenderNo": "CPC-46/2026-27",
       "lineNo": "Lot-2",
       "name": "Tender for providing Group Health Insurance Policy 2026-27",
@@ -5663,7 +6811,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 253,
+      "sl": 325,
+      "tenderNo": "CPC-47/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of High Temperature Low Sag HTLS Conductor after dismantling of ACSR Panther Conductor in existing 132 KV Cuttack Jagatsinghpur line along with dismantling of 02 nos existing towers and supply and erection of 03 nos new 132kv towers on turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-07-15",
+      "bidEnd": "2024-07-15",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 217644324,
+      "lastReceipt": "2024-07-15",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited 4.Transrail Lighting Limited",
+      "techOpenDate": "2024-07-16",
+      "techQualified": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2024-09-26",
+      "costQualified": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 326,
       "tenderNo": "CPC-47/2025-26",
       "lineNo": "1",
       "name": "Procurement of Tower Structure Materials and HDG Nut bolts for completion of balance works of Jharbandh project.",
@@ -5691,7 +6867,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 254,
+      "sl": 327,
       "tenderNo": "CPC-47/2026-27",
       "lineNo": "1",
       "name": "Conversion of 132kV Kutra switching station to 2X 50MVA 132/33kV GSS, Kutra on Turnkey contract basis.",
@@ -5719,7 +6895,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 255,
+      "sl": 328,
+      "tenderNo": "CPC-48/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of diversion of 132kV Mendhasal_ Khurda SC line HTLS Conductor from Loc no_112 to 117 and diversion of 220kV Mendhasal _ Atri DC line from Loc no_513 to 515 for proposed corrider of Khurda bypass road on NH_57 on turnkey contract basis",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-07-15",
+      "bidEnd": "2024-07-15",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 92122603,
+      "lastReceipt": "2024-07-15",
+      "nTenders": 3,
+      "status": "CANCELLED",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "techOpenDate": "2024-07-16",
+      "techQualified": null,
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 329,
       "tenderNo": "CPC-48/2026-27",
       "lineNo": "I",
       "name": "Supply of 4 nos 63 MVA, 220/33 KV Power Transformer",
@@ -5747,7 +6951,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 256,
+      "sl": 330,
+      "tenderNo": "CPC-49/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of following works on Turnkey contract basis. 1- Stringing of 2nd Circuit on DC tower of 132KV Nimapada-Konark transmission line_Line length 21. 00 Km approx. and its associated 132 KV Feeder bay extension at both KONARK and NIMAPARA Grid sub-station and 2- Stringing of 2nd Circuit on DC tower of 132KV Atri-Banki _Line length 20. 247 Km approx. and 132KV Banki-Nuapatna transmission line_Line length 20.39 Km approx. and its associated 2nos 132 KV Feeder bay extension at Banki GSS and 01 no 132 KV Feeder bay extension at Nuapatna Grid sub-station.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-05-31",
+      "bidEnd": "2024-05-31",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 165570246,
+      "lastReceipt": "2024-05-31",
+      "nTenders": 1,
+      "status": "CANCELLED",
+      "qualified": 1,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.ABHISEK CONTECH INDIA PVT LTD",
+      "techOpenDate": "2024-06-01",
+      "techQualified": null,
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 331,
       "tenderNo": "CPC-49/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 500 MVA, 400/220 KV ICT 11 nos.",
@@ -5775,7 +7007,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 257,
+      "sl": 332,
       "tenderNo": "CPC-49/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and commissioning of i- 765/400/220 KV GIS Sub-Station at Khuntuni at BetaKholi with 3x1500MVA, 765/400KV ICT, 2x240MVAR, 765KV Bus reactor, 3 x 500MVA, 400/220KV ICT and 1x125MVAR, 400KV Bus reactor ii- 765 KV DC LINE HEXA ACSR ZEBRA from EXISTING 765/400 KV AIS GRID S/S, PGCIL, PHULAPADA,ANGUL - TO PROPOSED 765/400/220 kV GIS S/S , Betakholi -74.059 kms iii-400KV DC QUAD ACSR MOOSE line from 765/400/220 kV GIS S/S Betakholi to proposed 400/200/33KV AIS Grid S/S, Neulapoi-40.54 kms iv- 400 kV Quad MOOSE LINE from765/400/220 kV GIS S/S Betakholi to Mendhasal on Multi Circuit Towers-31.92 kms and one no. dia extension at 400/220/132 kV Grid S/S, Mendhasal for connectivity of 400kV Betakholi-Mendhasal Transmission Line on EPC Contract basis.",
@@ -5803,7 +7035,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 258,
+      "sl": 333,
+      "tenderNo": "CPC-50/2023-24",
+      "lineNo": "I",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2 No.s 40 MVA, 220/33KV Gas Insulated Sub-station of 220KV GIS and 33KV AIS with SAS at Ranua, Jajpur with associated 220 KV LILO Transmission line from Loc. 108 of existing CKT-I of 220KV New Duburi-Dhamara-Balasore DC line to proposed 220/33KV GIS S/S at Ranua, Jajpur with Approx Line Length : 17.457 KM on Turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-05-15",
+      "bidEnd": "2024-05-15",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 755766712,
+      "lastReceipt": "2024-05-15",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 5,
+      "year": 2024,
+      "bidders": "1.Bajel Projects Limited 2.A K DAS ASSOCIATES LIMITED 3.Groma Infrastructure Limited 4.MBH POWER PRIVATE LIMITED 5.R S Infraprojects Pvt. Ltd. 6.SIDDHARTHA ENGINEERING LIMITED 7.STELMEC LIMITED",
+      "techOpenDate": "2024-05-16",
+      "techQualified": "1.MBH POWER PRIVATE LIMITED 2.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2025-02-06",
+      "costQualified": "1.MBH POWER PRIVATE LIMITED 2.SIDDHARTHA ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 334,
       "tenderNo": "CPC-50/2025-26",
       "lineNo": "1",
       "name": "Construction of 132KV SC line through Underground Cable with two number of spare cable from 132/33kV GSS Mancheswar to proposed RTSS Mancheswar along with 01 number of 132kV AIS bay extension at GSS Mancheswar on Turnkey Contract Basis",
@@ -5831,7 +7091,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 259,
+      "sl": 335,
       "tenderNo": "CPC-50/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 132 kV and 33 kV Power Transformer Bays along with Erection of 40 MVA, 132/33 kV Power Transformer at GSS Satasankha",
@@ -5859,7 +7119,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 260,
+      "sl": 336,
+      "tenderNo": "CPC-51/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2x40 MVA 220/33 KV AIS Grid S/S, Madanpur Rampur with associated LILO line from 220kV Kesinga_ Baliguda DC line on turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-05-06",
+      "bidEnd": "2024-05-07",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 431848832,
+      "lastReceipt": "2024-05-07",
+      "nTenders": 5,
+      "status": "COST OPEN",
+      "qualified": 5,
+      "disqualified": 5,
+      "year": 2024,
+      "bidders": "1.Gurpreet Galvanising Private Limited 2.MD Transcon Private Limited 3.A K DAS ASSOCIATES LIMITED 4.ABHISEK CONTECH INDIA PVT LTD 5.Groma Infrastructure Limited 6.MBH POWER PRIVATE LIMITED 7.SIDDHARTHA ENGINEERING LIMITED 8.STELMEC LIMITED 9.SALASAR TECHNO ENGINEERING LIMITED 10.Manipal Energy & Infratech Ltd",
+      "techOpenDate": "2024-05-08",
+      "techQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Groma Infrastructure Limited 3.MBH POWER PRIVATE LIMITED 4.SIDDHARTHA ENGINEERING LIMITED 5.SALASAR TECHNO ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-07-05",
+      "costQualified": "1.ABHISEK CONTECH INDIA PVT LTD 2.Groma Infrastructure Limited 3.MBH POWER PRIVATE LIMITED 4.SIDDHARTHA ENGINEERING LIMITED 5.SALASAR TECHNO ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 5,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 337,
       "tenderNo": "CPC-51/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of work towards 2nd Circuit Stringing of the 132kV Patnagarh-Kantabanjhi line on existing DC Tower alongwith 01 no. of 132kV feeder bay extension each at 132/33kV Grid S/s, Patnagarh and 132/33kV Grid S/s, Kantabanjhi Line Length 39.93 KM Approx.for power supply to Patnagarh and kantabanjhi area in Balangir District of Odisha, on EPC contract basis",
@@ -5887,7 +7175,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 261,
+      "sl": 338,
       "tenderNo": "CPC-51/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection and Commissioning of 220 kV DC Line from proposed 400/220 kV GIS Sub-station at Ramakrushnapur to existing 220/132/33 kV GSS, Bhadrak along with 2 Nos. of 220 kV Feeder Bay Extension at 220/132/33 kV GSS, Bhadrak Grid Sub-station, on EPC/Turnkey CONTRACT BASIS",
@@ -5915,7 +7203,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 262,
+      "sl": 339,
+      "tenderNo": "CPC-52/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of High Temperature Low Sag HTLS Conductor after dismantling of ACSR Panther and ACSR Zebra Conductor in existing 132 KV Choudwar_Bidanasi SC line up to Loc. No_118 to 91 and Loc No_ 23 to 01 on turnkey contract basis.",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-11",
+      "purEnd": "2024-07-15",
+      "bidEnd": "2024-07-15",
+      "tenderType": "Open",
+      "pubDate": "2024-03-11",
+      "estCost": 102663593,
+      "lastReceipt": "2024-07-15",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "techOpenDate": "2024-07-16",
+      "techQualified": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2024-09-26",
+      "costQualified": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 340,
       "tenderNo": "CPC-52/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF NAPHTHALENE BASE TRANSFORMER OIL",
@@ -5943,7 +7259,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 263,
+      "sl": 341,
       "tenderNo": "CPC-52/2026-27",
       "lineNo": "1",
       "name": "Augmentation of 220/132/33KV Atri Substation capacity from 320 MVA to 480MVA at 220 kV level through construction of 220 kV and 132 kV 3rd 160MVA Auto Transformer Bay and 60 MVA to 110 MVA at 132 kV level through construction of 132 kV and 33kV 3rd 50 MVA Power Transformer Bay in Khurda district on Turnkey contract basis",
@@ -5971,7 +7287,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 264,
+      "sl": 342,
+      "tenderNo": "CPC-53/2023-24",
+      "lineNo": "1",
+      "name": "Procurement of 450.186 KMs ACSR Panther conductor",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-03-15",
+      "purEnd": "2024-05-15",
+      "bidEnd": "2024-05-15",
+      "tenderType": "Open",
+      "pubDate": "2024-03-15",
+      "estCost": 94569285,
+      "lastReceipt": "2024-05-15",
+      "nTenders": 5,
+      "status": "COST OPEN",
+      "qualified": 5,
+      "disqualified": 4,
+      "year": 2024,
+      "bidders": "1.CABCON INDIA PVT LTD 2.KJV ALLOY CONDUCTORS PVT. LTD. 3.LUMINO INDUSTRIES LIMITED 4.Mahavir Transmission Limited 5.MMP INDUSTRIES LTD 6.Nirmal Wires Pvt. Ltd. 7.M/s ANVIL CABLES PVT. LTD. 8.LASER POWER AND INFRA LIMITED 9.Rajasthan Cables and Conductors Private Limited",
+      "techOpenDate": "2024-05-16",
+      "techQualified": "1.KJV ALLOY CONDUCTORS PVT. LTD. 2.LUMINO INDUSTRIES LIMITED 3.Mahavir Transmission Limited 4.Nirmal Wires Pvt. Ltd. 5.Rajasthan Cables and Conductors Private Limited",
+      "techDisqualified": "1.M/s ANVIL CABLES PVT. LTD.",
+      "costOpenDate": "2024-08-20",
+      "costQualified": "1.KJV ALLOY CONDUCTORS PVT. LTD. 2.LUMINO INDUSTRIES LIMITED 3.Mahavir Transmission Limited 4.Nirmal Wires Pvt. Ltd. 5.Rajasthan Cables and Conductors Private Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 5,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 343,
       "tenderNo": "CPC-53/2025-26",
       "lineNo": "1",
       "name": "Construction of 2nd Circuit SC line on DC tower from 132/33 KV Grid S/S Padampur to 132/33 KV Grid S/S Ghens with 132 KV Feeder Bay extension at both Padampur and Ghens Grid S/S on Turnkey Contract Basis.",
@@ -5999,7 +7343,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 265,
+      "sl": 344,
       "tenderNo": "CPC-53/2026-27",
       "lineNo": "1",
       "name": "Lot-I- Design,Engineering, Supply, Installation and Testing and Commissioning for Upgradation of 132/33kV GSS Palaspanga to 220/132/33kV GIS S/s with construction of 220 kV D/C line from proposed 400/220 kV GSS at Unchabali to proposed 220/132KV GIS at Palaspanga with 02 Nos. of 220kV feeder bay extensions at Unchabali GSS on Turnkey contract basis. Lot-II- Design, Engineering, Supply, Installation and Testing and Commissioning for Upgradation of 132/33KV Grid S/s Barbil to 220/132/33 kV GSS Barbil 220 kV Side GIS along with construction of 220 kV D/C line on 400 kV tower with Twin Moose conductor from Barbil GIS to proposed 400/220 kV GSS at Unchabali on Turnkey contract basis.",
@@ -6027,7 +7371,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 266,
+      "sl": 345,
+      "tenderNo": "CPC-54/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 400KV DC LILO line from TTPS Stage_III 2x660MW to 400/220/33KV GIS at Meramundali_B and arrangement for connectivity in 400KV from 400/220/33KV GIS at Meramundali_B to 400/220/132KV GSS at Meramundali_A",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-16",
+      "purEnd": "2024-05-20",
+      "bidEnd": "2024-05-20",
+      "tenderType": "Open",
+      "pubDate": "2024-03-16",
+      "estCost": 467135138,
+      "lastReceipt": "2024-05-20",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.Emphoria Works Pvt. Ltd. 2.Groma Infrastructure Limited 3.SIDDHARTHA ENGINEERING LIMITED",
+      "techOpenDate": "2024-05-21",
+      "techQualified": "1.Emphoria Works Pvt. Ltd. 2.Groma Infrastructure Limited 3.SIDDHARTHA ENGINEERING LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-07-10",
+      "costQualified": "1.Emphoria Works Pvt. Ltd. 2.Groma Infrastructure Limited 3.SIDDHARTHA ENGINEERING LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 346,
       "tenderNo": "CPC-54/2025-26",
       "lineNo": "1",
       "name": "Procurement of Tower Structure Materials and HDG Nut bolts for conversion of 2ph to 3ph line of different Rtss sub-stations and 220kv DC LILO line fron Narendrapur GSS to 400KV Gopalpur GSS.",
@@ -6055,7 +7427,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 267,
+      "sl": 347,
+      "tenderNo": "CPC-55/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 2nd Circuit stringing of 132KV Khariar Nuapada line on existing DC tower with bay extension work both at Khariar and Nuapada end",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-16",
+      "purEnd": "2024-05-13",
+      "bidEnd": "2024-05-13",
+      "tenderType": "Open",
+      "pubDate": "2024-03-16",
+      "estCost": 120915630,
+      "lastReceipt": "2024-05-13",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.ABHISEK CONTECH INDIA PVT LTD 3.JDC INFRATECH PRIVATE LIMITED",
+      "techOpenDate": "2024-05-14",
+      "techQualified": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.ABHISEK CONTECH INDIA PVT LTD 3.JDC INFRATECH PRIVATE LIMITED",
+      "techDisqualified": null,
+      "costOpenDate": "2024-07-05",
+      "costQualified": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.ABHISEK CONTECH INDIA PVT LTD 3.JDC INFRATECH PRIVATE LIMITED",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 348,
       "tenderNo": "CPC-55/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 4 X 100 MVA, 220/33 kV GSS at Padepadar along with 220 kV DC Line from 220/33 kV GSS at Padepadar to exist. 400/220 kV GSS at Mukhiguda Approx line length- 13 Kms and 2 Nos. of 220kV Bays extensions at exist. 400/220 kV GSS at Mukhiguda on Turnkey contract basis.",
@@ -6083,7 +7483,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 268,
+      "sl": 349,
       "tenderNo": "CPC-55/2026-27",
       "lineNo": "1",
       "name": "Procurement of 12 Nos. 500 MVA, 400/220/33 KV Interconnecting Transformer without OLTC.",
@@ -6111,7 +7511,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 269,
+      "sl": 350,
+      "tenderNo": "CPC-56/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning 2nd Circuit stringing of 132KV Khariar Kantabanji line on existing DC tower with 1 no bay extension work at Kantabanji end and 2nos of 132KV bay extension through 132KV 1C 1000 Sq mm XLPE cable at Khariar end with bay swapping. Line Length- 33.25KM",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-16",
+      "purEnd": "2024-05-13",
+      "bidEnd": "2024-05-13",
+      "tenderType": "Open",
+      "pubDate": "2024-03-16",
+      "estCost": 101188109,
+      "lastReceipt": "2024-05-13",
+      "nTenders": 2,
+      "status": "COST OPEN",
+      "qualified": 2,
+      "disqualified": 2,
+      "year": 2024,
+      "bidders": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.KEI Industries Limited 3.ABHISEK CONTECH INDIA PVT LTD 4.JDC INFRATECH PRIVATE LIMITED",
+      "techOpenDate": "2024-05-14",
+      "techQualified": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.ABHISEK CONTECH INDIA PVT LTD",
+      "techDisqualified": null,
+      "costOpenDate": "2024-07-05",
+      "costQualified": "1.ALEKH BHARATI CONSTRUCTIONS PRIVATE LIMITED 2.ABHISEK CONTECH INDIA PVT LTD",
+      "costDisqualified": null,
+      "costQualifiedCount": 2,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 351,
       "tenderNo": "CPC-56/2025-26",
       "lineNo": "LOT I",
       "name": "Procurement of 400kV PI for Isolator.",
@@ -6139,7 +7567,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 270,
+      "sl": 352,
       "tenderNo": "CPC-56/2025-26",
       "lineNo": "LOT II",
       "name": "Procurement of 220 KV BPI and PI for Isolators.",
@@ -6167,7 +7595,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 271,
+      "sl": 353,
       "tenderNo": "CPC-56/2025-26",
       "lineNo": "LOT III",
       "name": "Procurement of 132 KV BPI and PI for Isolators.",
@@ -6195,7 +7623,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 272,
+      "sl": 354,
       "tenderNo": "CPC-56/2025-26",
       "lineNo": "LOT IV",
       "name": "Procurement of 33 KV BPI and PI for Isolators.",
@@ -6223,7 +7651,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 273,
+      "sl": 355,
       "tenderNo": "CPC-56/2026-27",
       "lineNo": "Lot-I",
       "name": "Procurement of 400kV Capacitive Voltage Transformers as per triennial procurement plan of O and M materials for the FY 2026-27.",
@@ -6251,7 +7679,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 274,
+      "sl": 356,
       "tenderNo": "CPC-56/2026-27",
       "lineNo": "Lot-II",
       "name": "Procurement of 220kV Capacitive Voltage Transformers and Inductive Voltage Transformers as per triennial procurement plan of O and M materials for the FY 2026-27.",
@@ -6279,7 +7707,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 275,
+      "sl": 357,
       "tenderNo": "CPC-56/2026-27",
       "lineNo": "Lot-III",
       "name": "Procurement of 132kV Inductive Voltage Transformers as per triennial procurement plan of O and M materials for the FY 2026-27.",
@@ -6307,7 +7735,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 276,
+      "sl": 358,
       "tenderNo": "CPC-56/2026-27",
       "lineNo": "Lot-IV",
       "name": "Procurement of 33kV 0.2 class Potential Transformers as per triennial procurement plan of O and M materials for the FY 2026-27.",
@@ -6335,7 +7763,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 277,
+      "sl": 359,
+      "tenderNo": "CPC-57/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of High Temperature Low Sag Conductor after dismantling of ACSR Panther Conductor in existing 132 KV Chainpal_Angul SC line and 132 KV TTPS_Angul SC line",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-15",
+      "purEnd": "2024-07-15",
+      "bidEnd": "2024-07-15",
+      "tenderType": "Open",
+      "pubDate": "2024-03-15",
+      "estCost": 201687973,
+      "lastReceipt": "2024-07-15",
+      "nTenders": 3,
+      "status": "COST OPEN",
+      "qualified": 3,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "techOpenDate": "2024-07-16",
+      "techQualified": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "techDisqualified": null,
+      "costOpenDate": "2024-09-26",
+      "costQualified": "1.APAR INDUSTRIES LTD 2.JSK Industries Private Limited 3.Sterlite Electric Limited",
+      "costDisqualified": null,
+      "costQualifiedCount": 3,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 360,
       "tenderNo": "CPC-57/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of work towards Construction of 400 KV D/C Quad line from proposed NTTPP, NLC, Talabira to 400/220/132/33 KV Grid Sub-Station, Lapanga Line Length 6.8 KM Approx. in Sambalpur District of Odisha, on EPC contract basis.",
@@ -6363,7 +7819,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 278,
+      "sl": 361,
       "tenderNo": "CPC-57/2026-27",
       "lineNo": "1",
       "name": "Procurement of Battery Set 220 V, 350 AH Vented Lead storage battery Plante Type with mandatory spares.",
@@ -6391,7 +7847,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 279,
+      "sl": 362,
       "tenderNo": "CPC-58/2025-26",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 400 KV DC LILO Line from existing 400 KV Kuchei-Pandiabil and Kuchei-N.Duburi DC line to proposed 400/220KV GIS, at Ramakrushnapur in Bhadrak District Approx Line Length 4.642 KM on EPC/Turnkey CONTRACT BASIS.",
@@ -6419,7 +7875,63 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 280,
+      "sl": 363,
+      "tenderNo": "CPC-58_2023_24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 132kV, 1CX1000 Sq mm UG cabling work DC line with one spare cable for each circuit from 220/132/33kV GSS Chandaka to 132/33kV GSS Mancheswar",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-16",
+      "purEnd": "2024-05-27",
+      "bidEnd": "2024-05-27",
+      "tenderType": "Open",
+      "pubDate": "2024-03-16",
+      "estCost": 846148277,
+      "lastReceipt": "2024-05-27",
+      "nTenders": 6,
+      "status": "CANCELLED",
+      "qualified": 6,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Universal Cables Limited 4.FINOLEX J POWER SYSTEMS 5.KEC International Limited 6.Indian Cables and Electricals Pvt Ltd 7.Rahul Cables Private Limited",
+      "techOpenDate": "2024-05-28",
+      "techQualified": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Universal Cables Limited 4.FINOLEX J POWER SYSTEMS 5.KEC International Limited 6.Rahul Cables Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 364,
+      "tenderNo": "CPC-59/2023-24",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 132kV, SC line through 1CX630 SQ mm 132KV UG cable with one spare cable from 132/33kV GSS Argul to 132/33kV GSS Ransinghpur with one no 132kV bay extension at both end of sub-stations, Argul and Ransinghpur",
+      "cot": "OPTCL-Works",
+      "purStart": "2024-03-16",
+      "purEnd": "2024-05-28",
+      "bidEnd": "2024-05-28",
+      "tenderType": "Open",
+      "pubDate": "2024-03-16",
+      "estCost": 1162692452,
+      "lastReceipt": "2024-05-28",
+      "nTenders": 5,
+      "status": "CANCELLED",
+      "qualified": 5,
+      "disqualified": 1,
+      "year": 2024,
+      "bidders": "1.AmaraRaja Infra Private Limited 2.KEI Industries Limited 3.Sterlite Electric Limited 4.Universal Cables Limited 5.KEC International Limited 6.Rahul Cables Private Limited",
+      "techOpenDate": "2024-05-29",
+      "techQualified": "1.KEI Industries Limited 2.Sterlite Electric Limited 3.Universal Cables Limited 4.KEC International Limited 5.Rahul Cables Private Limited",
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 365,
       "tenderNo": "CPC-59/2025-26",
       "lineNo": "I",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of 2nd Circuit Stringing of the 132kV Kendrapara-Pattamundai line on existing DC Tower including construction of 17 nos. of Interposing Towers with bay extension work at 132/33kV Gird S/s, Kendrapara and Pattamundai ends Line Length 21KM On EPC contract basis in Kendrapara District of Odisha",
@@ -6447,7 +7959,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 281,
+      "sl": 366,
       "tenderNo": "CPC-59/2026-27",
       "lineNo": "I",
       "name": "Design, Engineering, Supply, Erection, Testing and Commissioning of work towards Construction of 02 Nos. of 400 KV bays at 400/220/132/33 KV GSS, Lapanga for connectivity of 400 KV D/C Quad line from proposed NTTPP, NLC, Talabira to 400/220/132/33 KV Grid Sub-Station, Lapanga in the State of Odisha",
@@ -6475,7 +7987,35 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 282,
+      "sl": 367,
+      "tenderNo": "CPC-60/2023-24",
+      "lineNo": "1",
+      "name": "Procurement of 2 nos of 63MVA 220/33KV Power Transformer",
+      "cot": "OPTCL-Goods",
+      "purStart": "2024-03-16",
+      "purEnd": "2024-05-07",
+      "bidEnd": "2024-05-07",
+      "tenderType": "Open",
+      "pubDate": "2024-03-16",
+      "estCost": 178180000,
+      "lastReceipt": "2024-05-07",
+      "nTenders": 1,
+      "status": "CANCELLED",
+      "qualified": 1,
+      "disqualified": 0,
+      "year": 2024,
+      "bidders": "1.BHARAT BIJLEE LIMITED",
+      "techOpenDate": "2024-05-08",
+      "techQualified": null,
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 368,
       "tenderNo": "CPC-60/2025-26",
       "lineNo": "1",
       "name": "Enlistment of Firms/ Contractors in works rate contract for execution of LIVE HOT LINE MAINTENANCE OF EHV TRANSMISSION LINE AND SUBSTATIONS OF OPTCL IN THE STATE OF ODISHA.",
@@ -6503,7 +8043,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 283,
+      "sl": 369,
       "tenderNo": "CPC-60/2026-27",
       "lineNo": "1",
       "name": "PROCUREMENT OF 400KV, 80MVAR LINE REACTOR EACH WITH 132KV NGR 2 NOs.",
@@ -6531,7 +8071,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 284,
+      "sl": 370,
       "tenderNo": "CPC-61/2026-27",
       "lineNo": "1",
       "name": "Engineering, Supply, Installation and Testing and Commissioning works for Construction of One 400 kV Dia, One 220 kV Bay along with shifting of existing 220 kV lines and 220kV UG Cabling at 400/220 kV Grid Substation, New Duburi on Turnkey Contract Basis.",
@@ -6559,7 +8099,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 285,
+      "sl": 371,
       "tenderNo": "CPC-62/2025-26",
       "lineNo": "1",
       "name": "Construction of 02 nos of PD 22 monopole towers with 02 mtrs extended foundation in the diversion work of 220kV Budhipadar Vedanta DC line from Loc. No. 40 to 48 under EHT O and M Division, Jharsuguda for Construction of Proposed IB_Brundamal Railway flyover on Turnkey contract basis.",
@@ -6587,7 +8127,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 286,
+      "sl": 372,
       "tenderNo": "CPC-63/2025-26",
       "lineNo": "1",
       "name": "Procurement of Outdoor mounted live tank, single phase, single unit type 220kV Current Transformers for protection and metering services in 33KV, 132KV, 220KV and 400kV system.",
@@ -6615,7 +8155,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 287,
+      "sl": 373,
       "tenderNo": "CPC-64/2025-26",
       "lineNo": "1",
       "name": "Procurement of 400kV Composite Long Rod Insulator.",
@@ -6643,7 +8183,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 288,
+      "sl": 374,
       "tenderNo": "CPC-64/2026-27",
       "lineNo": "Lot 1",
       "name": "Tender for Jhula Man and Tower Climber Lot1",
@@ -6671,7 +8211,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 289,
+      "sl": 375,
       "tenderNo": "CPC-64/2026-27",
       "lineNo": "Lot-2",
       "name": "Tender for Jhula man and Tower Climber for Lot2",
@@ -6699,7 +8239,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 290,
+      "sl": 376,
       "tenderNo": "CPC-64/2026-27",
       "lineNo": "Lot-3",
       "name": "Tender for jhula Man and Tower climber Lot3",
@@ -6727,7 +8267,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 291,
+      "sl": 377,
       "tenderNo": "CPC-64/2026-27",
       "lineNo": "Lot-4",
       "name": "Tender for Jhula Man and Tower climber Lot4",
@@ -6755,7 +8295,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 292,
+      "sl": 378,
       "tenderNo": "CPC-65/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and commissioning 400 KV Quad Moose Double Circuit DC Transmission line on Double Circuit and Multi-Circuit towers from the existing 400/220 KV Pandiabil PGCIL Grid Substation to the proposed 400/220/33 KV Grid Substation at TSSEZ, Gopalpur Approx-157.363 km on EPC Contract basis",
@@ -6783,7 +8323,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 293,
+      "sl": 379,
       "tenderNo": "CPC-67/2025-26",
       "lineNo": "1",
       "name": "Construction of 2 x 500 MVA, 400-220 kV Grid Sub-Station with Automation System at Baisinga and 220 KV DC Transmission line from Existing 220/132/33KV GSS, Balasore to Proposed 400/ 220KV GSS at Baisinga with 2nos 220KV bay extension at Balasore on Turnkey contract basis",
@@ -6811,7 +8351,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 294,
+      "sl": 380,
       "tenderNo": "CPC-69/2025-26",
       "lineNo": "LOT I",
       "name": "PROCUREMENT OF 132kV SURGE ARRESTERS.",
@@ -6839,7 +8379,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 295,
+      "sl": 381,
       "tenderNo": "CPC-69/2025-26",
       "lineNo": "LOT II",
       "name": "PROCUREMENT OF 33kV SURGE ARRESTERS.",
@@ -6867,7 +8407,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 296,
+      "sl": 382,
       "tenderNo": "CPC-69/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Testing and commissioning of 2X500 MVA, 2x100MVA 400/220/33KV AIS Sub-Station with SAS at Unchaballi with associated 400 KV D/C LILO LINE from 400KV Kaniha-Bisra D/C line CKT-I and II to proposed 400/220/33KV GSS at Unchaballi, 220KV LILO in D/C from TTPS-Joda line to proposed S/s at Unchaballi, , 220KV D/Cline from 220/132/33KV GSS, Turumunga to proposed 400/220/33KV Grid S/s at Unchaballi with bay extensions at Turumunga on EPC Contract basis.",
@@ -6895,7 +8435,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 297,
+      "sl": 383,
       "tenderNo": "CPC-70/2025-26",
       "lineNo": "1",
       "name": "Construction of 220kV SC line in parallel to the existing line through Underground Cable for 400/220kV, 500MVA ICT connection to bay at New-Duburi GSS on Turnkey Contract Basis.",
@@ -6923,7 +8463,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 298,
+      "sl": 384,
       "tenderNo": "CPC-71/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 50 MVA, 132/33 KV POWER TRANSFORMER 10 NOS.",
@@ -6951,7 +8491,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 299,
+      "sl": 385,
       "tenderNo": "CPC-72/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 500 MVA 1 Ph Auto Transformer 21 nos as per tender specification.",
@@ -6979,7 +8519,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 300,
+      "sl": 386,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT I",
       "name": "PROCUREMENT OF 33 KV ISOLATORS.",
@@ -7007,7 +8547,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 301,
+      "sl": 387,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT II",
       "name": "PROCUREMENT OF 132 KV ISOLATORS.",
@@ -7035,7 +8575,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 302,
+      "sl": 388,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT III",
       "name": "PROCUREMENT OF 220 KV ISOLATORS.",
@@ -7063,7 +8603,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 303,
+      "sl": 389,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT IV",
       "name": "PROCUREMENT OF 400 KV ISOLATORS.",
@@ -7091,7 +8631,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 304,
+      "sl": 390,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT V",
       "name": "PROCUREMENT AND RETROFITTING OF MECHANISM BOXES FOR ISOLATOR/EARTHSWITCH.",
@@ -7119,7 +8659,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 305,
+      "sl": 391,
       "tenderNo": "CPC-74/2025-26",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in existing 132kV Burla PH Katapali Ckt I and II line after dismantling of ACSR Panther Conductor",
@@ -7147,7 +8687,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 306,
+      "sl": 392,
       "tenderNo": "CPC-75/2025-26",
       "lineNo": "1",
       "name": "Procurement of 237.7KMs GI earth wire",
@@ -7175,7 +8715,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 307,
+      "sl": 393,
       "tenderNo": "CPC-76/2025-26",
       "lineNo": "1",
       "name": "Procurement of Self Propelled Boom Lift for executing overhead maintenance works at GSS Mendhasal GSS New Duburi and GSS Lapanga",
