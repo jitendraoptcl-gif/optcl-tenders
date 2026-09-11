@@ -3,8 +3,8 @@
   "applicationRelease": "2.5",
   "dataVersion": "2026.09.11.03",
   "asOf": "11 Sept 2026",
-  "label": "Loaded 312 CPC tenders from \"Tender stat 11092026.xlsx\" — refreshed 11 Sept 2026.",
-  "generatedAt": "2026-09-11T04:44:19.741Z",
+  "label": "Loaded 313 CPC tenders from \"Tender stat 11092026.xlsx\" — refreshed 11 Sept 2026.",
+  "generatedAt": "2026-09-11T07:28:56.560Z",
   "rows": [
     {
       "sl": 82,
@@ -8464,6 +8464,34 @@
     },
     {
       "sl": 384,
+      "tenderNo": "CPC-70/2026-27",
+      "lineNo": "1",
+      "name": "Stringing of HTLS conductor in existing 400 KV Meramunduli Mendhasal DC line along with up gradation of equipments at bus at respective grid substation after dismantling of twin AAAC Moose Conductor",
+      "cot": "OPTCL-Works",
+      "purStart": "2026-09-11",
+      "purEnd": "2026-10-09",
+      "bidEnd": "2026-10-09",
+      "tenderType": "Open",
+      "pubDate": "2026-09-11",
+      "estCost": 3012670182,
+      "lastReceipt": "2026-10-09",
+      "nTenders": null,
+      "status": "UNAPPLIED",
+      "qualified": 0,
+      "disqualified": 0,
+      "year": 2026,
+      "bidders": null,
+      "techOpenDate": "2026-10-09",
+      "techQualified": null,
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 385,
       "tenderNo": "CPC-71/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 50 MVA, 132/33 KV POWER TRANSFORMER 10 NOS.",
@@ -8491,7 +8519,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 385,
+      "sl": 386,
       "tenderNo": "CPC-72/2025-26",
       "lineNo": "1",
       "name": "PROCUREMENT OF 500 MVA 1 Ph Auto Transformer 21 nos as per tender specification.",
@@ -8519,7 +8547,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 386,
+      "sl": 387,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT I",
       "name": "PROCUREMENT OF 33 KV ISOLATORS.",
@@ -8547,7 +8575,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 387,
+      "sl": 388,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT II",
       "name": "PROCUREMENT OF 132 KV ISOLATORS.",
@@ -8575,7 +8603,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 388,
+      "sl": 389,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT III",
       "name": "PROCUREMENT OF 220 KV ISOLATORS.",
@@ -8603,7 +8631,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 389,
+      "sl": 390,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT IV",
       "name": "PROCUREMENT OF 400 KV ISOLATORS.",
@@ -8631,7 +8659,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 390,
+      "sl": 391,
       "tenderNo": "CPC-73/2025-26",
       "lineNo": "LOT V",
       "name": "PROCUREMENT AND RETROFITTING OF MECHANISM BOXES FOR ISOLATOR/EARTHSWITCH.",
@@ -8659,7 +8687,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 391,
+      "sl": 392,
       "tenderNo": "CPC-74/2025-26",
       "lineNo": "1",
       "name": "Stringing of HTLS Conductor in existing 132kV Burla PH Katapali Ckt I and II line after dismantling of ACSR Panther Conductor",
@@ -8687,7 +8715,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 392,
+      "sl": 393,
       "tenderNo": "CPC-75/2025-26",
       "lineNo": "1",
       "name": "Procurement of 237.7KMs GI earth wire",
@@ -8715,7 +8743,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 393,
+      "sl": 394,
       "tenderNo": "CPC-76/2025-26",
       "lineNo": "1",
       "name": "Procurement of Self Propelled Boom Lift for executing overhead maintenance works at GSS Mendhasal GSS New Duburi and GSS Lapanga",
