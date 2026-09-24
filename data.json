@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "applicationRelease": "2.5",
-  "dataVersion": "2026.09.24.03",
+  "dataVersion": "2026.09.24.06",
   "asOf": "24 Sept 2026",
   "label": "Loaded 320 CPC tenders from \"DTS24092026.xlsx\" — refreshed 24 Sept 2026.",
-  "generatedAt": "2026-09-24T10:59:38.065Z",
+  "generatedAt": "2026-09-24T12:43:04.897Z",
   "rows": [
     {
       "sl": 82,
@@ -193,7 +193,7 @@
       "disqualified": 0,
       "year": 2025,
       "bidders": null,
-      "techOpenDate": "2025-02-07",
+      "techOpenDate": "2026-09-24",
       "techQualified": null,
       "techDisqualified": null,
       "costOpenDate": null,
@@ -277,7 +277,7 @@
       "disqualified": 0,
       "year": 2026,
       "bidders": "1.CABCON INDIA PVT LTD 2.HYPHEN CABLES PRIVATE LIMITED 3.PRIME CABLE INDUSTRIES LIMITED 4.Pasondia Cables Pvt Ltd 5.Suraj Cables India Private Limited 6.TORTEK INDIA PRIVATE LIMITED",
-      "techOpenDate": "2026-07-22",
+      "techOpenDate": "2026-09-24",
       "techQualified": "1.CABCON INDIA PVT LTD 2.HYPHEN CABLES PRIVATE LIMITED 3.Pasondia Cables Pvt Ltd 4.Suraj Cables India Private Limited",
       "techDisqualified": "1.PRIME CABLE INDUSTRIES LIMITED 2.TORTEK INDIA PRIVATE LIMITED",
       "costOpenDate": null,
