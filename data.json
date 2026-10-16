@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "applicationRelease": "2.5",
-  "dataVersion": "2026.10.16.03",
+  "dataVersion": "2026.10.16.04",
   "asOf": "16 Oct 2026",
   "label": "Loaded 339 CPC tenders from \"DTS_16102026.xlsx\" — refreshed 16 Oct 2026.",
-  "generatedAt": "2026-10-16T04:58:47.436Z",
+  "generatedAt": "2026-10-16T05:03:11.129Z",
   "rows": [
     {
       "sl": 83,
