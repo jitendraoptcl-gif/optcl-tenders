@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "applicationRelease": "2.5",
-  "dataVersion": "2026.11.20.03",
-  "asOf": "20 Nov 2026",
-  "label": "Loaded 355 CPC tenders from \"DTS_20112026.xlsx\" — refreshed 20 Nov 2026.",
-  "generatedAt": "2026-11-20T06:06:28.196Z",
+  "dataVersion": "2026.11.21.03",
+  "asOf": "21 Nov 2026",
+  "label": "Loaded 356 CPC tenders from \"DTS_21112026.xlsx\" — refreshed 21 Nov 2026.",
+  "generatedAt": "2026-11-21T05:58:08.371Z",
   "rows": [
     {
       "sl": 90,
@@ -8223,14 +8223,14 @@
       "pubDate": "2026-08-18",
       "estCost": 323601388.32,
       "lastReceipt": "2026-11-17",
-      "nTenders": null,
-      "status": "INPROGRESS",
-      "qualified": 0,
+      "nTenders": 2,
+      "status": "TECHNO COMMERCIAL OPEN",
+      "qualified": 2,
       "disqualified": 0,
       "year": 2026,
-      "bidders": null,
+      "bidders": "1.BHEL 2.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
       "techOpenDate": "2026-11-17",
-      "techQualified": null,
+      "techQualified": "1.BHEL 2.TRANSFORMERS & RECTIFIERS (INDIA) LTD.",
       "techDisqualified": null,
       "costOpenDate": null,
       "costQualified": null,
@@ -8977,7 +8977,7 @@
       "bidEnd": "2026-12-03",
       "tenderType": "Open",
       "pubDate": "2026-10-16",
-      "estCost": 1825530506,
+      "estCost": 1823052506,
       "lastReceipt": "2026-12-03",
       "nTenders": null,
       "status": "INPROGRESS",
@@ -9005,7 +9005,7 @@
       "bidEnd": "2026-12-03",
       "tenderType": "Open",
       "pubDate": "2026-10-16",
-      "estCost": 2607900723,
+      "estCost": 2604360723,
       "lastReceipt": "2026-12-03",
       "nTenders": null,
       "status": "INPROGRESS",
@@ -9033,7 +9033,7 @@
       "bidEnd": "2026-12-03",
       "tenderType": "Open",
       "pubDate": "2026-04-20",
-      "estCost": 1825530506,
+      "estCost": 1823052506,
       "lastReceipt": "2026-12-03",
       "nTenders": null,
       "status": "INPROGRESS",
@@ -9724,6 +9724,34 @@
     },
     {
       "sl": 437,
+      "tenderNo": "CPC-88/2026-27",
+      "lineNo": "1",
+      "name": "Engineering, Supply, Erection, Testing and Commissioning of 3rd 500 MVA, 400 220kV ICT at 400/220/132/33 kV GSS,Lapanga along with construction of one of 400KV Dia and one no. of 220KV bay and associated system in Odisha State of India.",
+      "cot": "OPTCL-Works",
+      "purStart": "2026-11-20",
+      "purEnd": "2026-12-17",
+      "bidEnd": "2026-12-17",
+      "tenderType": "Open",
+      "pubDate": null,
+      "estCost": 215252951,
+      "lastReceipt": "2026-12-17",
+      "nTenders": null,
+      "status": "UNAPPLIED",
+      "qualified": 0,
+      "disqualified": 0,
+      "year": 2026,
+      "bidders": null,
+      "techOpenDate": "2026-12-18",
+      "techQualified": null,
+      "techDisqualified": null,
+      "costOpenDate": null,
+      "costQualified": null,
+      "costDisqualified": null,
+      "costQualifiedCount": 0,
+      "costDisqualifiedCount": 0
+    },
+    {
+      "sl": 438,
       "tenderNo": "CPC-89/2026-27",
       "lineNo": "1",
       "name": "Forest clearance work for an area of approx. 47.91 Hector of land proposed for 400KV Quard Moose Multickt Line from 400KV Mendhasal GSS to proposed 765KV Betakholi GSS",
@@ -9751,7 +9779,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 438,
+      "sl": 439,
       "tenderNo": "CPC-90/2026-27",
       "lineNo": "1",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of conversion of 220kV Switching sub-station at Landeihill into 2x100 MVA, 220/33kV GSS on Turnkey Contract Basis",
@@ -9779,7 +9807,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 439,
+      "sl": 440,
       "tenderNo": "CPC-93/2026-27",
       "lineNo": "LOT-I",
       "name": "Enlistment of additional Firms/ Contractors under existing works rate contract for execution of Emergency and Normal works in 33kV Substation and Transmission Lines",
@@ -9807,7 +9835,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 440,
+      "sl": 441,
       "tenderNo": "CPC-93/2026-27",
       "lineNo": "LOT-II",
       "name": "Enlistment of additional Firms/ Contractors under existing works rate contract for execution of Emergency and Normal works in 400kV, 220kV and 132kV Substation and Transmission Lines",
@@ -9835,7 +9863,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 441,
+      "sl": 442,
       "tenderNo": "CPC-95/2026-27",
       "lineNo": "1",
       "name": "ENLISTEMENT OF ADDITIONAL FIRMS IN RATE CONTRACT FOR CARRYING OUT PRELIMINARY SURVEY DETAIL SURVEY FOREST CLEARANCE AND GEOTECHNICAL SOIL INVESTIGATION FOR UPCOMING PROJECTS OF OPTCL",
@@ -9863,7 +9891,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 442,
+      "sl": 443,
       "tenderNo": "CPC-98/2026-27",
       "lineNo": "1",
       "name": "Procurement of 24 Fibre DWSM, OPGW Fibre optic cable and hardware set.",
@@ -9891,7 +9919,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 443,
+      "sl": 444,
       "tenderNo": "CPC-99/2026-27",
       "lineNo": "I",
       "name": "Design, Engineering, Supply, Erection, Installation, Testing and Commissioning of 400 KV DC LILO Line from existing 400 KV Kuchei-Pandiabil and Kuchei-N.Duburi DC line to proposed 400/220KV GIS, at Ramakrushnapur on Turnkey Contract Basis",
@@ -9919,7 +9947,7 @@
       "costDisqualifiedCount": 0
     },
     {
-      "sl": 458,
+      "sl": 459,
       "tenderNo": "CpC-94/2026-27",
       "lineNo": "1",
       "name": "Enlistment of Additional Firms in existing rate contract for supply of hot dip Galvanized steel structure materials HT and MS HDG Nut and bolts and accessories for Transmission Line towers and Substation equipment structures as per OPTCL design.",
